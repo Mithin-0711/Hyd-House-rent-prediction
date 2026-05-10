@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Predict Price By Area</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>Predict Price By Area</h1>
+
+        <form action="/predict_area" method="POST">
+
+            <input type="text"
+                   name="location"
+                   placeholder="Enter Area Name"
+                   required>
+
+            <input type="number"
+                   name="bhk"
+                   placeholder="Enter BHK"
+                   required>
+
+            <button type="submit">
+                Predict Rent
+            </button>
+
+        </form>
+
+        {% if result %}
+
+            <div class="result">
+
+                {{ result }}
+
+            </div>
+
+        {% endif %}
+
+        <br>
+
+        <a href="/">
+
+            <button>
+                Back
+            </button>
+
+        </a>
+
+    </div>
+
+</body>
+</html>

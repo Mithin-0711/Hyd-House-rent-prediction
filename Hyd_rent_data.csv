@@ -1,0 +1,1172 @@
+Column1,Bhk,Furnishing,Tennants,Area,Price,Locality
+0,3,Furnished,Bachelors/Family,1800 sqft,34000,"Bhagyalaxmi Nagar, Kavadiguda"
+1,3,Semi-Furnished,Family,2500 sqft,45000,"Gachibowli, Outer Ring Road"
+2,1,Furnished,Bachelors/Family,read more,18000,Gachibowli
+3,3,Furnished,Bachelors/Family,2160 sqft,40000,"Moosapet, NH"
+4,3,Semi-Furnished,Family,1580 sqft,23000,Raghavendra Colony kondapur
+5,3,Furnished,Bachelors/Family,2600 sqft,50000,"Banjara Darwaja, Golconda Fort"
+6,3,Semi-Furnished,Bachelors/Family,1350 sqft,32000,"Mohans Sai Signature, Nanakramguda"
+7,1,Furnished,Bachelors/Family,read more,13000,Gowlidoddi
+8,3,Furnished,Bachelors/Family,1700 sqft,35000,"Somajiguda, NH"
+9,3,Unfurnished,Family,1150 sqft,11000,Kapra
+10,3,Semi-Furnished,Family,1330 sqft,19000,"Tilak Nagar, New Nallakunta, NH"
+11,3,Unfurnished,Bachelors,1836 sqft,30000,"Neknampur, Manikonda, Outer Ring Road"
+12,3,Semi-Furnished,Bachelors/Family,1540 sqft,18000,"Mayuri Nagar, Miyapur"
+13,3,Semi-Furnished,Bachelors/Family,1720 sqft,30000,"Accurate Wind Chimes, Narsingi, Outer Ring Road"
+14,3,Semi-Furnished,Family,1950 sqft,31000,"Hyder Nagar, NH"
+15,3,Semi-Furnished,Bachelors/Family,2075 sqft,49000,"Vajras Jasmine County, Financial district Gachibowli"
+16,3,Semi-Furnished,Bachelors/Family,2500 sqft,38000,"Tirumala Gardens, Banjara Hills, NH"
+17,2,Semi-Furnished,Family,1080 sqft,18000,"Paragon Venkatadri Apartments, Kachiguda, NH"
+18,3,Semi-Furnished,Bachelors/Family,1500 sqft,26000,"Meenakshi Homes, Miyapur, NH"
+19,3,Semi-Furnished,Bachelors/Family,2150 sqft,25000,Papulguda
+20,2,Furnished,Bachelors/Family,1350 sqft,12000,"Bachupally, Outer Ring Road"
+21,3,Semi-Furnished,Bachelors/Family,1198 sqft,34000,Nanakram Guda
+22,3,Semi-Furnished,Family,2100 sqft,39000,"L&T Serene County, Gachibowli, Outer Ring Road"
+23,3,Unfurnished,Bachelors/Family,1875 sqft,37000,"SM Plaza, ECIL"
+24,3,Unfurnished,Bachelors/Family,1200 sqft,13000,"Chatta Bazaar, Pathar Gatti"
+25,2,Semi-Furnished,Family,1296 sqft,35000,"Lodha Meridian, Kukatpally Housing Board Colony, NH"
+26,2,Furnished,Bachelors/Family,1100 sqft,45000,Hitech City City
+27,3,Semi-Furnished,Bachelors/Family,2000 sqft,38000,"Banjara Hills, NH"
+28,3,Furnished,Bachelors,2020 sqft,45000,"Gachibowli, Outer Ring Road"
+29,2,Furnished,Bachelors/Family,1200 sqft,35000,Mehindipatnam
+30,3,Unfurnished,Bachelors,1640 sqft,35000,"YMCA Circle, Narayanguda"
+31,3,Unfurnished,Bachelors,1640 sqft,35000,"YMCA Circle, Narayanguda"
+32,3,Semi-Furnished,Bachelors/Family,1870 sqft,40000,"Vajras Jasmine County, Gachibowli, Outer Ring Road"
+33,3,Semi-Furnished,Family,1600 sqft,25000,Jubilee Hills
+34,3,Semi-Furnished,Bachelors/Family,1650 sqft,25000,Kondapur
+35,3,Semi-Furnished,Bachelors/Family,East Facing Property,27000,Kondapur
+36,2,Unfurnished,Bachelors,1260 sqft,19000,Kondapur
+37,3,Semi-Furnished,Bachelors/Family,1920 sqft,35000,"Golf View, Gachibowli, Outer Ring Road"
+38,3,Unfurnished,Bachelors/Family,1250 sqft,18000,Devan Devdi
+39,3,Semi-Furnished,Bachelors,1818 sqft,40000,"Lodha Casa Paradiso, Sanath Nagar, NH"
+40,3,Semi-Furnished,Family,2130 sqft,24000,"Srila Park Pride, Kukatpally, NH"
+41,3,Unfurnished,Family,1800 sqft,35000,"Gudi Malkapur, Mehdipatnam"
+42,3,Furnished,Bachelors,1555 sqft,30000,"Bachupally, Outer Ring Road"
+43,1,Furnished,Bachelors/Family,East Facing Property,23000,"Banjara Basera Apartment, Banjara Hills, NH"
+44,2,Semi-Furnished,Family,1200 sqft,16000,KPHB
+45,3,Semi-Furnished,Bachelors/Family,1600 sqft,20000,"Dullapally, NH"
+46,2,Unfurnished,Bachelors,1296 sqft,12000,"VSR Celestial Towers, Gajularamaramm"
+47,3,Semi-Furnished,Bachelors/Family,2072 sqft,28000,"Jeedimetla, NH"
+48,3,Unfurnished,Bachelors/Family,1460 sqft,17000,"Vasanth Nagar Colony, Nizampet"
+49,3,Semi-Furnished,Bachelors,1900 sqft,45000,"Nallagandla, Serilingampally"
+50,2,Unfurnished,Bachelors/Family,950 sqft,15500,Brindavan Colony-Toli Chowki
+51,2,Furnished,Bachelors/Family,1100 sqft,16000,West Marredpally
+52,2,Semi-Furnished,Family,1563 sqft,20000,"PBEL City, Appa junction"
+53,3,Unfurnished,Bachelors/Family,1990 sqft,36000,"Aditya Empress Towers, Shaikpet"
+54,3,Unfurnished,Bachelors,2051 sqft,45000,"Prestige Ivy League, Phase"
+55,1,Unfurnished,Bachelors/Family,read more,9800,Shri
+56,3,Semi-Furnished,Bachelors/Family,1260 sqft,20000,"Upparpally, Hyderabad Expressway"
+57,2,Unfurnished,Bachelors/Family,1075 sqft,15000,"Gangaram, Chandanagar, NH"
+58,3,Semi-Furnished,Bachelors/Family,2100 sqft,30000,"Srinivas Nagar, Rhoda Mistri Nagar"
+59,3,Unfurnished,Bachelors,2000 sqft,35000,"Vasanth Nagar Colony, Nizampet"
+60,3,Semi-Furnished,Bachelors/Family,1600 sqft,36000,Madhapur
+61,3,Unfurnished,Bachelors/Family,1360 sqft,13000,"Annojiguda, NH"
+62,3,Semi-Furnished,Bachelors/Family,2025 sqft,35000,"Neknampur, Manikonda, Outer Ring Road"
+63,3,Semi-Furnished,Family,1860 sqft,22000,"NGRI, Secunderabad"
+64,3,Semi-Furnished,Bachelors/Family,1500 sqft,25000,"Chandanagar, NH"
+65,2,Unfurnished,Bachelors/Family,1160 sqft,30000,"Samatha Nagar, Kukatpally, NH"
+66,3,Unfurnished,Bachelors,1400 sqft,17500,Bandlaguda Jagir
+67,3,Furnished,Bachelors/Family,1380 sqft,44000,"Jains Carlton Creek, Gachibowli, Outer Ring Road"
+68,3,Semi-Furnished,Bachelors/Family,1800 sqft,24000,"Kukatpally, NH"
+69,3,Furnished,Bachelors/Family,2000 sqft,43000,"Aditya Imperial Heights, Hafeezpet, NH"
+70,3,Furnished,Bachelors/Family,1800 sqft,35000,"Nallagandla, Serilingampally"
+71,3,Semi-Furnished,Family,1620 sqft,25000,Gajularamaramm
+72,3,Semi-Furnished,Family,2200 sqft,25000,"Ramanthapur, NH"
+73,3,Unfurnished,Bachelors/Family,1810 sqft,30000,"ALIND Employees Colony, Serilingampally"
+74,3,Semi-Furnished,Bachelors,1510 sqft,12000,"ARK Homes, Bolarum, Medchal Road"
+75,4,Semi-Furnished,Family,2800 sqft,50000,"Kokapet, Outer Ring Road"
+76,3,Semi-Furnished,Bachelors/Family,1908 sqft,48000,"SMR Vinay Iconia, Kondapur"
+77,3,Semi-Furnished,Family,1705 sqft,30000,Hitech City City
+78,2,Unfurnished,Bachelors/Family,900 sqft,19000,Papulguda
+79,3,Semi-Furnished,Bachelors/Family,1690 sqft,38000,"My Home Vihanga, Gachibowli, Outer Ring Road"
+80,3,Semi-Furnished,Bachelors/Family,1600 sqft,35000,"Aditya Empress Towers, Shaikpet"
+81,2,Unfurnished,Bachelors/Family,800 sqft,10000,Attapur
+82,3,Unfurnished,Bachelors,1360 sqft,14000,Balaji Hills Colony
+83,2,Furnished,Bachelors,1200 sqft,29000,"Green Space Hill Park, Manikonda, Outer Ring Road"
+84,2,Semi-Furnished,Bachelors/Family,1200 sqft,17000,Puppalaguda
+85,3,Unfurnished,Bachelors/Family,1580 sqft,16000,"GK Pride, Yapral"
+86,2,Unfurnished,Bachelors,900 sqft,15000,Mehdipatnam
+87,3,Unfurnished,Bachelors,1230 sqft,17000,Nizampet
+88,2,Semi-Furnished,Bachelors,1050 sqft,18000,"Kavadiguda, NH"
+89,2,Unfurnished,Bachelors/Family,1265 sqft,9000,"Gundlapochampally, Outer Ring Road"
+90,2,Semi-Furnished,Bachelors/Family,1500 sqft,16000,East Marredpally
+91,3,Semi-Furnished,Family,1400 sqft,21000,"Silicon Ridge, Attapur"
+92,3,Unfurnished,Bachelors/Family,1550 sqft,13000,"Gks Habitat Royale, Yapral"
+93,2,Semi-Furnished,Family,1100 sqft,17000,Attapur
+94,2,Furnished,Bachelors,970 sqft,17000,"Green Space Residency, Gajularamaramm"
+95,3,Semi-Furnished,Bachelors/Family,1650 sqft,40000,"Lacasa K Apartments, Banjara Hills, NH"
+96,3,Semi-Furnished,Bachelors/Family,1630 sqft,30000,Gopanapalli
+97,3,Semi-Furnished,Bachelors,1738 sqft,48000,Kondapur
+98,3,Unfurnished,Bachelors,1834 sqft,40000,"My Home Avatar, Narsingi, Outer Ring Road"
+99,3,Unfurnished,Bachelors,East Facing Property,24000,"Ramky One Marvel, Kukatpally, NH"
+100,2,Semi-Furnished,Bachelors/Family,1250 sqft,18000,"Golden Heights Colony, Janachaitanya colony, Hyderabad Expressway"
+101,2,Semi-Furnished,Family,1314 sqft,30000,"My Home Avatar, Narsingi, Outer Ring Road"
+102,3,Semi-Furnished,Family,3250 sqft,36000,"Floatilla, Manikonda, Outer Ring Road"
+103,4,Semi-Furnished,Family,2200 sqft,50000,"Ashoka Liviano, Gachibowli, Outer Ring Road"
+104,3,Semi-Furnished,Bachelors,1360 sqft,15000,"Modi Emerald Heights, Pocharam, NH"
+105,3,Furnished,Bachelors,1460 sqft,30000,Shamshabad
+106,3,Unfurnished,Bachelors,1150 sqft,18000,Royal Colony-Ram Bagh Colony
+107,3,Semi-Furnished,Family,2000 sqft,25000,"Anjaneyanagar Colony, Boduppal"
+108,2,Unfurnished,Family,900 sqft,9500,Bairagiguda
+109,3,Semi-Furnished,Family,1600 sqft,27000,West Marredpally
+110,1,Furnished,Bachelors/Family,read more,36000,Kavuri Hills
+111,3,Furnished,Bachelors,1369 sqft,45000,Masab Tank
+112,3,Semi-Furnished,Bachelors/Family,2580 sqft,48000,"Whitefields, Hitech City"
+113,3,Semi-Furnished,Bachelors/Family,2259 sqft,45000,"Lodha Meridian, Kukatpally Housing Board Colony, NH"
+114,3,Semi-Furnished,Family,1800 sqft,32000,"Khairatabad, NH"
+115,2,Semi-Furnished,Bachelors/Family,1314 sqft,33000,"My Home Avatar, My home avatar"
+116,2,Unfurnished,Bachelors/Family,890 sqft,8000,Medipally
+117,3,Unfurnished,Bachelors/Family,1843 sqft,40000,"My Home Avatar, Narsingi, Outer Ring Road"
+118,3,Semi-Furnished,Bachelors/Family,1650 sqft,25000,"Old Nallakunta, New Nallakunta"
+119,3,Semi-Furnished,Bachelors/Family,1200 sqft,12000,"Paramount Residency, Nagaram"
+120,3,Furnished,Bachelors/Family,NaN,18000,"Sadbhavana, Ghatkesar, NH"
+121,3,Furnished,Bachelors/Family,1100 sqft,13000,"Janapriya Lakefront, Sainikpuri"
+122,3,Semi-Furnished,Family,2000 sqft,25000,Suchitra Circle
+123,3,Semi-Furnished,Bachelors/Family,2540 sqft,38000,"NCC Urban One, Narsingi, Outer Ring Road"
+124,2,Semi-Furnished,Bachelors,1150 sqft,16000,"Gandhi Nagar, Kavadiguda, NH"
+125,2,Unfurnished,Bachelors/Family,1250 sqft,10500,"Beeramguda, Ramachandra Puram, NH"
+126,3,Furnished,Bachelors/Family,2200 sqft,40000,Gachibowli Phase
+127,2,Furnished,Bachelors/Family,1120 sqft,19000,"Basheer Bagh, NH"
+128,3,Semi-Furnished,Family,1608 sqft,20000,"Manchirevula, Outer Ring Road"
+129,3,Furnished,Bachelors/Family,2000 sqft,20000,Osman Nagar
+130,2,Semi-Furnished,Family,1200 sqft,26000,"Ameerpet, NH"
+131,2,Unfurnished,Bachelors,1000 sqft,20000,Bandari Layout
+132,2,Unfurnished,Bachelors/Family,1100 sqft,18500,"Al Hasnath Colony, Toli Chowki"
+133,2,Unfurnished,Bachelors,950 sqft,35000,Shaikpet
+134,3,Semi-Furnished,Bachelors/Family,1900 sqft,40000,"NCL Sindhu, Dandamudi Enclave, Jeedimetla"
+135,3,Furnished,Family,2045 sqft,30000,Shaikpet
+136,3,Furnished,Bachelors/Family,1800 sqft,40000,"Nallagandla, Serilingampally"
+137,3,Semi-Furnished,Family,1368 sqft,21000,Gajularamaramm
+138,1,Unfurnished,Bachelors/Family,read more,18000,Gowlidoddi
+139,3,Semi-Furnished,Bachelors/Family,1500 sqft,32500,"Kukatpally Housing Board Colony, NH"
+140,3,Semi-Furnished,Bachelors,1450 sqft,32000,"Kavuri Hills, Madhapur"
+141,3,Furnished,Bachelors/Family,2347 sqft,45000,"SMR Vinay Iconia, Kondapur"
+142,3,Semi-Furnished,Bachelors/Family,2800 sqft,45000,"Trendset Winz, Gachibowli, Outer Ring Road"
+143,3,Semi-Furnished,Family,1650 sqft,40000,"Gachibowli, Outer Ring Road"
+144,3,Unfurnished,Bachelors,1865 sqft,31500,"Indu Fortune Fields apartments, Hitech City City"
+145,3,Semi-Furnished,Bachelors/Family,2200 sqft,24000,"Old Malakpet, NH"
+146,3,Semi-Furnished,Family,3000 sqft,45000,"Hafeezpet, NH"
+147,2,Semi-Furnished,Bachelors,1000 sqft,13000,"Temple Alwal, Secunderabad, Siddipet Road"
+148,2,Unfurnished,Bachelors,1300 sqft,20000,"Punjagutta, NH"
+149,2,Furnished,Family,1300 sqft,18000,"Samatha Nagar, Kukatpally, NH"
+150,3,Furnished,Family,1375 sqft,45000,"Lanco Hills, Manikonda, Outer Ring Road"
+151,3,Semi-Furnished,Bachelors/Family,1800 sqft,20000,"Narsingi, Outer Ring Road"
+152,3,Semi-Furnished,Bachelors,2000 sqft,36000,"Domalguda, Himayath Nagar, NH"
+153,3,Semi-Furnished,Family,1600 sqft,22000,"NCL Ganga, Kompally"
+154,3,Semi-Furnished,Bachelors/Family,2100 sqft,23000,"Pragathi Nagar, Ramanthapur, NH"
+155,3,Semi-Furnished,Family,1789 sqft,15500,"Saket, Secunderabad"
+156,3,Unfurnished,Family,1450 sqft,12000,Sainikpuri
+157,4,Semi-Furnished,Bachelors,3380 sqft,45000,"NCC Urban One, Narsingi, Outer Ring Road"
+158,3,Semi-Furnished,Bachelors/Family,2000 sqft,35000,"Lakdikapul, NH"
+159,2,Unfurnished,Bachelors,1100 sqft,15000,Vidya Nagar
+160,3,Semi-Furnished,Bachelors/Family,1690 sqft,32000,"Aparna Hillpark Gardenia, Chandanagar, NH"
+161,3,Semi-Furnished,Bachelors/Family,1750 sqft,22000,"Kalyan Puri, Secunderabad"
+162,2,Furnished,Bachelors,1050 sqft,27000,Nehru Nagar-West Marredpally
+163,2,Unfurnished,Bachelors/Family,800 sqft,10000,Sangareddy District
+164,2,Furnished,Bachelors,1070 sqft,22000,"Samata Colony, Toli Chowki"
+165,3,Semi-Furnished,Family,1252 sqft,12000,Dammaiguda
+166,3,Semi-Furnished,Bachelors,1150 sqft,16000,"Tilak Nagar, New Nallakunta, NH"
+167,3,Semi-Furnished,Bachelors/Family,2400 sqft,22000,"Tellapur, Outer Ring Road"
+168,3,Furnished,Bachelors/Family,1590 sqft,39000,"Aditya Imperial Heights, Hafeezpet, NH"
+169,3,Unfurnished,Bachelors/Family,1700 sqft,18000,Karwan sahu
+170,3,Furnished,Family,1550 sqft,50000,New Mallepally
+171,2,Unfurnished,Bachelors,1314 sqft,33000,"My Home Avatar, Narsingi, Outer Ring Road"
+172,3,Semi-Furnished,Family,1000 sqft,18500,Mayur Marg
+173,3,Furnished,Bachelors/Family,1950 sqft,48000,Nanakram Guda
+174,4,Semi-Furnished,Bachelors/Family,4000 sqft,25000,"Saptagiri Colony, Kukatpally, NH"
+175,2,Furnished,Bachelors/Family,read more,15000,Sangareddy
+176,2,Semi-Furnished,Bachelors/Family,1000 sqft,14000,"Dilsukhnagar, NH"
+177,3,Unfurnished,Bachelors/Family,1630 sqft,20000,"Alkapuri, LB Nagar, NH"
+178,2,Furnished,Bachelors/Family,1050 sqft,27000,Madhapur
+179,2,Semi-Furnished,Bachelors/Family,915 sqft,15000,"Vidyanagar, Adikmet"
+180,2,Semi-Furnished,Bachelors/Family,1200 sqft,14000,"Champapet, Koti"
+181,3,Semi-Furnished,Bachelors/Family,1144 sqft,16500,"Nirmala Ratna Apartment, Gangaram, Chandanagar, NH"
+182,3,Semi-Furnished,Family,1660 sqft,29000,"Moti Nagar-Erragadda, NH"
+183,3,Furnished,Bachelors/Family,1198 sqft,40000,"Mantri Celestia, Gachibowli, Outer Ring Road"
+184,2,Semi-Furnished,Bachelors/Family,1200 sqft,17500,Masab Tank
+185,3,Semi-Furnished,Family,1655 sqft,16000,"Hyder Nagar, NH"
+186,3,Semi-Furnished,Bachelors,2000 sqft,30000,"Khaja Guda, Outer Ring Road"
+187,3,Semi-Furnished,Family,2003 sqft,25000,"Pearl Celestial, Kokapet, Outer Ring Road"
+188,3,Semi-Furnished,Bachelors,1600 sqft,24000,"Vertex Pleasant, Kukatpally, NH"
+189,3,Semi-Furnished,Bachelors/Family,2500 sqft,35000,"Banjara Hills, NH"
+190,3,Semi-Furnished,Bachelors/Family,2000 sqft,40000,"Kavuri Hills, Madhapur"
+191,1,Semi-Furnished,Bachelors,read more,42000,Aparna Serene Park
+192,3,Furnished,Bachelors/Family,1570 sqft,22000,"Daisy Classic, Kukatpally, NH"
+193,2,Semi-Furnished,Bachelors/Family,1380 sqft,23000,"SMR Vinay Harmony County, Appa junction"
+194,5,Semi-Furnished,Bachelors/Family,4000 sqft,40000,"My Nest Mahati, Kondapur"
+195,3,Semi-Furnished,Family,1800 sqft,27000,"De Lite Power Welfare Society, Narsingi, Outer Ring Road"
+196,2,Unfurnished,Bachelors/Family,1095 sqft,12500,Gajularamaramm
+197,2,Unfurnished,Bachelors,150 sqyrd,12500,"Sun City, Bandlaguda, Chevella Road"
+198,2,Unfurnished,Bachelors/Family,1000 sqft,12000,Gudimalkapur
+199,3,Furnished,Family,1260 sqft,18000,Tarnaka
+200,3,Bachelors/Family,3,1800 sqft,25000,Appa junction
+201,3,Furnished,Bachelors,1610 sqft,25000,Raghuram A
+202,3,Unfurnished,Bachelors,1495 sqft,23000,"SMR Vinay City, Miyapur, NH"
+203,3,Unfurnished,Bachelors/Family,1300 sqft,16000,Nizampet
+204,3,Semi-Furnished,Family,2600 sqft,38000,"Yousufguda, NH"
+205,3,Semi-Furnished,Bachelors/Family,1265 sqft,18500,"Chandanagar, NH"
+206,3,Unfurnished,Bachelors,2285 sqft,50000,"Lumbini Avenue, Gachibowli, Outer Ring Road"
+207,3,Furnished,Family,1425 sqft,22000,"Kokapet, Outer Ring Road"
+208,3,Semi-Furnished,Bachelors,2200 sqft,31000,Kothaguda
+209,3,Semi-Furnished,Bachelors/Family,1840 sqft,38000,"Gachibowli, Outer Ring Road"
+210,3,Bachelors/Family,3,1525 sqft,25000,"Hafeezpet, NH"
+211,1,Semi-Furnished,Bachelors,read more,10000,"Kukatpally Housing Board Colony, NH"
+212,2,Semi-Furnished,Bachelors/Family,1250 sqft,16500,Attapur
+213,1,Semi-Furnished,Bachelors/Family,"Near Kiran international school Boduppal, Near Ganesh temple and Park",13000,Lakshmi Nagar Colony-Hanuman Nagar Colony
+214,1,Furnished,Bachelors,East Facing Property,25000,Gachibowli
+215,3,Furnished,Bachelors/Family,2259 sqft,50000,"Lodha Meridian, K P H B Phase"
+216,2,Furnished,Bachelors/Family,1365 sqft,36000,"Magnam Opus, Gachibowli, Outer Ring Road"
+217,2,Semi-Furnished,Family,1314 sqft,30000,"My Home Avatar, Narsingi, Outer Ring Road"
+218,3,Semi-Furnished,Family,1925 sqft,32000,"SMR Vinay Fountainhead, Hyderabad"
+219,2,Semi-Furnished,Family,800 sqft,10000,"Bagh Amberpet, Amberpet, NH"
+220,2,Semi-Furnished,Bachelors/Family,1400 sqft,16000,Attapur
+221,3,Unfurnished,Bachelors/Family,1600 sqft,19000,"Aakriti Honey dew, Tellapur, Outer Ring Road"
+222,3,Semi-Furnished,Family,1500 sqft,17500,"Kukatpally, NH"
+223,3,Semi-Furnished,Bachelors/Family,1800 sqft,20000,"Hill County Township, Bachupally, Outer Ring Road"
+224,2,Unfurnished,Bachelors/Family,810 sqft,13000,Serilingampally
+225,2,Semi-Furnished,Family,1450 sqft,26000,"Project Golden Habitat, Madhapur"
+226,3,Semi-Furnished,Family,2192 sqft,40000,"Western Exotica Project , Kothaguda"
+227,3,Semi-Furnished,Bachelors/Family,1800 sqft,26000,"Aditya Imperial Heights, Hafeezpet, NH"
+228,3,Furnished,Bachelors/Family,1400 sqft,18000,Haripuri colony
+229,2,Unfurnished,Bachelors,768 sqft,15000,"Manikonda, Outer Ring Road"
+230,3,Semi-Furnished,Bachelors/Family,1700 sqft,15000,Aminpur
+231,4,Semi-Furnished,Bachelors/Family,2800 sqft,50000,"Banjara Hills, NH"
+232,3,Semi-Furnished,Bachelors,1740 sqft,18000,"APSEB Colony, Hastinapuram"
+233,3,Semi-Furnished,Family,1575 sqft,18000,"Silver Spring, Narsingi, Outer Ring Road"
+234,2,Unfurnished,Bachelors/Family,1250 sqft,10000,"Bachupally, Outer Ring Road"
+235,2,Semi-Furnished,Bachelors,1100 sqft,13000,Attapur
+236,2,Unfurnished,Bachelors,1800 sqft,25000,"Bhavyas Akhila Exotica, Kukatpally, NH"
+237,3,Semi-Furnished,Bachelors/Family,1700 sqft,15000,"Sri Mahalakshmi Residency, Attapur"
+238,2,Semi-Furnished,Bachelors/Family,850 sqft,18000,"Lakdikapul, NH"
+239,3,Semi-Furnished,Bachelors/Family,1650 sqft,24000,"Sri Nainas Sunrise, Manikonda, Outer Ring Road"
+240,2,Unfurnished,Bachelors/Family,1200 sqft,17000,Balkampet
+241,2,Semi-Furnished,Bachelors/Family,1000 sqft,16500,Puppalaguda
+242,3,Semi-Furnished,Bachelors/Family,2192 sqft,45000,"Western Exotica Project , Kothaguda"
+243,3,Semi-Furnished,Bachelors/Family,1525 sqft,23000,"APGOs Coop HSG Society, Hafeezpet"
+244,2,Semi-Furnished,Bachelors/Family,1150 sqft,14000,Toli Chowki
+245,3,Semi-Furnished,Bachelors,1775 sqft,23000,Hyderaguda-Attapur
+246,3,Unfurnished,Bachelors,1490 sqft,25000,"Infocity Excellence and Elegance, Nallagandla, Serilingampally"
+247,3,Semi-Furnished,Bachelors,1450 sqft,25000,Mehdipatnam
+248,3,Semi-Furnished,Bachelors,1200 sqft,15000,"Aparna Kanopy Tulip, Kompally"
+249,3,Semi-Furnished,Bachelors/Family,1870 sqft,35000,"Sumukhi Orbit, Madhapur"
+250,3,Semi-Furnished,Family,1756 sqft,34000,"Project Hill Ridge Springs, Gachibowli, Outer Ring Road"
+251,3,Unfurnished,Bachelors,1500 sqft,26000,"Gayatri Hills, Jubilee Hills"
+252,3,Furnished,Bachelors/Family,1360 sqft,15000,"Emerald Heights, Nizampet"
+253,2,Unfurnished,Bachelors/Family,1160 sqft,16000,"New Dilshukh Nagar, NH"
+254,3,Unfurnished,Family,1450 sqft,14000,Maruthi Nagar
+255,2,Unfurnished,Bachelors,950 sqft,10000,"Hayathnagar, NH"
+256,3,Semi-Furnished,Family,2200 sqft,35000,Kondapur
+257,2,Unfurnished,Bachelors/Family,670 sqft,10500,"Quthbullapur, NH"
+258,4,Furnished,Family,3000 sqft,36000,Puppalaguda
+259,2,Semi-Furnished,Bachelors/Family,1200 sqft,18000,Puppalaguda
+260,3,Semi-Furnished,Bachelors/Family,1933 sqft,18000,"Modi Splendour, Kukatpally, NH"
+261,3,Bachelors/Family,3,2200 sqft,26000,Attapur
+262,3,Semi-Furnished,Family,1933 sqft,18000,"Modi Splendour, Kukatpally, NH"
+263,2,Unfurnished,Family,900 sqft,10200,"Quthbullapur, NH"
+264,2,Unfurnished,Bachelors/Family,900 sqft,14500,Borabanda
+265,3,Semi-Furnished,Bachelors/Family,1650 sqft,18000,"Miyapur, NH"
+266,3,Semi-Furnished,Family,1850 sqft,23000,"Manikonda, Outer Ring Road"
+267,3,Semi-Furnished,Family,1650 sqft,36000,"Ashoka Liviano, Gachibowli, Outer Ring Road"
+268,4,Unfurnished,Bachelors,2000 sqft,25000,"Al Hasnath Colony, Toli Chowki"
+269,2,Semi-Furnished,Bachelors/Family,100 sqyrd,9000,Narapally
+270,3,Semi-Furnished,Family,1690 sqft,45000,"Gachibowli, Outer Ring Road"
+271,2,Semi-Furnished,Bachelors/Family,1100 sqft,13000,"New Bowenpally, NH"
+272,3,Semi-Furnished,Bachelors/Family,1850 sqft,30000,Shaikpet
+273,3,Semi-Furnished,Bachelors/Family,1925 sqft,25000,"Hafeezpet, NH"
+274,3,Semi-Furnished,Bachelors/Family,1600 sqft,17000,Uppal Metro
+275,3,Semi-Furnished,Bachelors/Family,1750 sqft,17000,Bowenpally
+276,3,Unfurnished,Bachelors,1700 sqft,20000,Nizampet
+277,3,Unfurnished,Bachelors/Family,1782 sqft,35000,"IT Heights, Khaja Guda, Outer Ring Road"
+278,3,Semi-Furnished,Family,1450 sqft,15000,Bowenpally
+279,2,Unfurnished,Bachelors,954 sqft,10000,"Modi Emerald Heights, Pocharam, NH"
+280,3,Semi-Furnished,Family,1933 sqft,16000,"Modi Splendour, Gajularamaramm"
+281,3,Semi-Furnished,Bachelors/Family,1700 sqft,32000,"Pranav Surya Planet, Kothaguda"
+282,2,Semi-Furnished,Bachelors/Family,1008 sqft,14000,"Miyapur, NH"
+283,2,Unfurnished,Family,1100 sqft,15000,"Chandanagar, NH"
+284,2,Unfurnished,Family,1140 sqft,8500,"Lalaguda, Secunderabad"
+285,1,Semi-Furnished,Bachelors,read more,8000,"LB Nagar, NH"
+286,3,Semi-Furnished,Bachelors,1350 sqft,10000,"Sri Sai Ram Residency, Beeramguda, Ramachandra Puram, NH"
+287,2,Semi-Furnished,Bachelors/Family,900 sqft,15000,Gayathri Nagar
+288,3,Furnished,Family,1745 sqft,29000,"Concrete Palazzo, Nacharam"
+289,2,Semi-Furnished,Bachelors/Family,1180 sqft,19500,"Silver Nest Arcade, Narayanguda"
+290,2,Semi-Furnished,Bachelors,1314 sqft,35000,"My Home Avatar, Narsingi, Outer Ring Road"
+291,2,Furnished,Bachelors/Family,1280 sqft,30000,Narayanguda
+292,3,Semi-Furnished,Bachelors/Family,1490 sqft,30000,"Aditya Imperial Heights, Hafeezpet, NH"
+293,3,Unfurnished,Bachelors,1500 sqft,18000,New Nallakunta
+294,2,Unfurnished,Bachelors,1278 sqft,33000,"Lodha Meridian, Kukatpally Housing Board Colony, NH"
+295,2,Semi-Furnished,Bachelors,1600 sqft,35000,"Banjara Hills, NH"
+296,3,Semi-Furnished,Family,1545 sqft,35000,"Vajras Jasmine County, Gachibowli, Outer Ring Road"
+297,3,Semi-Furnished,Bachelors,2430 sqft,40000,"SMR Vinay Iconia, Kondapur"
+298,3,Semi-Furnished,Bachelors/Family,1834 sqft,40400,"My Home Avatar, Narsingi, Outer Ring Road"
+299,2,Unfurnished,Bachelors,1100 sqft,17000,"Krishna Giri Enclave, Secunderabad"
+300,3,Semi-Furnished,Family,1738 sqft,48000,"Prestige Ivy League, Hitech City City"
+301,3,Unfurnished,Bachelors,2440 sqft,48000,"Jayabheri Orange County, Gachibowli, Outer Ring Road"
+302,3,Semi-Furnished,Family,1490 sqft,22000,"Janapriya Utopia II, Upparpally, Hyderabad Expressway"
+303,3,Semi-Furnished,Family,2690 sqft,40000,"SRI SAIRAM Towers, Hafeezpet, NH"
+304,2,Unfurnished,Bachelors/Family,1000 sqft,18000,Shivam Rd
+305,2,Unfurnished,Bachelors/Family,1000 sqft,16000,"Kukatpally Housing Board Colony, NH"
+306,2,Semi-Furnished,Bachelors/Family,1100 sqft,20000,Kondapur
+307,3,Furnished,Bachelors,NaN,44000,Hitech City
+308,1,Unfurnished,Bachelors/Family,East Facing Property,6500,Vidyanagar
+309,3,Semi-Furnished,Bachelors/Family,1800 sqft,45000,"Golf View, Gachibowli, Outer Ring Road"
+310,3,Semi-Furnished,Family,2265 sqft,40000,"Rainbow Vistas Rock Gardens, Hitech City City"
+311,3,Unfurnished,Bachelors,read more,30000,Kondapur
+312,2,Semi-Furnished,Family,1150 sqft,17000,"Gayatri Hills, Jubilee Hills"
+313,3,Semi-Furnished,Bachelors,NaN,25000,West
+314,2,Semi-Furnished,Bachelors/Family,1260 sqft,25000,"Ayyappa Society, Madhapur"
+315,3,Unfurnished,Bachelors/Family,1558 sqft,28000,"Indu Fortune Fields apartments, Hitech City City"
+316,2,Semi-Furnished,Bachelors/Family,1345 sqft,20000,Kondapur
+317,3,Semi-Furnished,Bachelors/Family,1380 sqft,15000,Dammaiguda
+318,2,Semi-Furnished,Bachelors/Family,1100 sqft,20000,"Basheer Bagh, NH"
+319,3,Semi-Furnished,Bachelors,2300 sqft,45000,Masjid Banda
+320,3,Semi-Furnished,Family,1650 sqft,30000,"Rethibowli, Mehdipatnam"
+321,3,Semi-Furnished,Family,1545 sqft,35000,"Vajras Jasmine County, Financial District, Nanakram Guda"
+322,1,Unfurnished,Bachelors,East Facing Property,13000,Kondapur
+323,1,Unfurnished,Bachelors/Family,East Facing Property,10000,Kondapur
+324,2,Unfurnished,Bachelors,NaN,20000,"Hemadurga Towers, Miyapur, NH"
+325,3,Semi-Furnished,Bachelors/Family,NaN,44000,Rajapushpa Atria
+326,2,Furnished,Bachelors/Family,read more,31000,Aparna Cyber Commune
+327,2,Semi-Furnished,Family,1295 sqft,30000,"Aparna Serene Park, Masjid Banda"
+328,2,Furnished,Bachelors/Family,1262 sqft,41000,"Ashvita, Hitech City City"
+329,3,Semi-Furnished,Family,1600 sqft,31000,"Aparna CyberZon, Nallagandla, Serilingampally"
+330,3,Semi-Furnished,Bachelors,2345 sqft,36000,"ACE Atlantis, Khaja Guda, Outer Ring Road"
+331,2,Unfurnished,Bachelors,1100 sqft,29000,Jubilee Hills
+332,3,Semi-Furnished,Bachelors/Family,1550 sqft,23000,Narayanguda
+333,1,Semi-Furnished,Bachelors,read more,15000,Kothaguda
+334,3,Semi-Furnished,Bachelors/Family,NaN,40000,Aditya Empress Towers
+335,3,Semi-Furnished,Bachelors,1800 sqft,28000,"Aditya Imperial Heights, Hafeezpet, NH"
+336,3,Semi-Furnished,Bachelors/Family,2500 sqft,35000,Hitech City City
+337,3,Semi-Furnished,Family,1854 sqft,45000,"Lodha Meridian, Kukatpally, NH"
+338,3,Furnished,Family,2350 sqft,50000,"Nagarjuna Residency, P Janardhan Reddy Nagar, Gachibowli, Outer Ring Road"
+339,3,Semi-Furnished,Family,2400 sqft,45000,"Apurupa Avenue, Kavuri Hills, Madhapur"
+340,3,Semi-Furnished,Bachelors/Family,1485 sqft,23000,Kondapur
+341,2,Unfurnished,Bachelors/Family,900 sqft,16000,"Banjara Hills, NH"
+342,4,Semi-Furnished,Bachelors/Family,2550 sqft,38000,"Ameerpet, NH"
+343,3,Semi-Furnished,Bachelors/Family,2160 sqft,42000,"My Home Vihanga, Gachibowli, Outer Ring Road"
+344,3,Furnished,Family,1628 sqft,26000,"PBEL City, Appa junction"
+345,3,Semi-Furnished,Bachelors,read more,10000,
+346,3,Unfurnished,Bachelors,2200 sqft,50000,"Aparna Aura, Jubilee Hills"
+347,4,Semi-Furnished,Bachelors/Family,2300 sqft,50000,"Jains Carlton Creek, Gachibowli, Outer Ring Road"
+348,3,Semi-Furnished,Bachelors/Family,2400 sqft,48000,"Ramky Towers Elite, Madhapur"
+349,3,Semi-Furnished,Family,1600 sqft,25000,"Shanthi Nagar-Kukatpally, NH"
+350,3,Semi-Furnished,Bachelors,1800 sqft,22000,"Sanjeeva Reddy Nagar, NH"
+351,3,Semi-Furnished,Bachelors/Family,1300 sqft,25000,"Surya Nagar, Toli Chowki"
+352,3,Unfurnished,Bachelors/Family,1834 sqft,40000,"Gachibowli, Outer Ring Road"
+353,2,Unfurnished,Bachelors/Family,1250 sqft,18000,West Marredpally
+354,2,Semi-Furnished,Bachelors,1200 sqft,17000,"Samata Colony, Toli Chowki"
+355,3,Unfurnished,Bachelors,2200 sqft,50000,"Banjara Hills, NH"
+356,3,Semi-Furnished,Bachelors/Family,1504 sqft,18000,"Manikonda, Outer Ring Road"
+357,3,Furnished,Bachelors/Family,1900 sqft,45000,Kondapur
+358,3,Semi-Furnished,Family,1615 sqft,45000,"Aparna Serene Park, Kondapur"
+359,2,Semi-Furnished,Bachelors/Family,907 sqft,18000,"Solanki Gulmohar, Brahman Wadi, Begumpet"
+360,2,Semi-Furnished,Bachelors/Family,1233 sqft,17500,Attapur
+361,3,Semi-Furnished,Family,2000 sqft,14000,"Saroornagar, NH"
+362,2,Semi-Furnished,Bachelors/Family,1800 sqft,15000,Fort View Colony
+363,3,Semi-Furnished,Bachelors,2092 sqft,35000,"Morning Raga, Alkapur Township, Manikonda, Outer Ring Road"
+364,1,Unfurnished,Bachelors/Family,read more,7500,"Uppal, NH"
+365,3,Semi-Furnished,Bachelors/Family,1210 sqft,13000,Nagaram
+366,2,Unfurnished,Bachelors/Family,6000 sqft,17000,"Chandanagar, NH"
+367,3,Furnished,Family,1650 sqft,25000,"Surya Sravanthi Apartment, Kothaguda"
+368,2,Furnished,Bachelors/Family,1140 sqft,15000,"Lotus Avenues, Miyapur, NH"
+369,3,Semi-Furnished,Bachelors/Family,1650 sqft,12000,"Saroornagar, NH"
+370,2,Semi-Furnished,Bachelors/Family,1217 sqft,30000,"Kokapet, Outer Ring Road"
+371,2,Furnished,Bachelors/Family,1350 sqft,39000,"Kokapet, Outer Ring Road"
+372,2,Furnished,Family,1230 sqft,26000,Police Colony-Kondapur
+373,3,Semi-Furnished,Bachelors/Family,1685 sqft,30000,"Rajapushpa Atria, Kokapet, Outer Ring Road"
+374,3,Semi-Furnished,Bachelors,1800 sqft,18000,Bandlaguda Jagir
+375,2,Semi-Furnished,Bachelors/Family,1514 sqft,20000,"Jeedimetla, NH"
+376,3,Semi-Furnished,Bachelors/Family,1450 sqft,15000,"Bachupally, Outer Ring Road"
+377,2,Semi-Furnished,Bachelors/Family,1200 sqft,20000,"Durgabai Deshmukh Colony, Amberpet"
+378,3,Semi-Furnished,Family,1655 sqft,30000,"Nallagandla, Serilingampally"
+379,2,Unfurnished,Bachelors,1413 sqft,13000,"Malakpet, NH"
+380,2,Furnished,Bachelors,1010 sqft,28500,"Malaysian Township, Kukatpally, NH"
+381,2,Unfurnished,Bachelors/Family,read more,14500,IDPL Colony
+382,3,Semi-Furnished,Family,1500 sqft,28000,"Hafeezpet, NH"
+383,3,Unfurnished,Bachelors/Family,1685 sqft,27000,"Accurate Wind Chimes, Narsingi"
+384,2,Unfurnished,Bachelors/Family,read more,8500,"Beeramguda, Ramachandra Puram, NH"
+385,3,Semi-Furnished,Bachelors,1024 sqft,30000,"Aditya Imperial Heights, Hafeezpet, NH"
+386,3,Furnished,Family,1685 sqft,45000,"Gachibowli, Outer Ring Road"
+387,3,Bachelors/Family,3,1600 sqft,30000,"Manikonda, Outer Ring Road"
+388,3,Unfurnished,Bachelors/Family,2050 sqft,36000,"Aditya Gardenia, Banjara Hills, NH"
+389,2,Semi-Furnished,Bachelors/Family,1314 sqft,30000,"My Home Avatar, Narsingi, Outer Ring Road"
+390,1,Unfurnished,Bachelors/Family,read more,8000,Charminar
+391,3,Semi-Furnished,Family,1410 sqft,20000,"SMR Vinay Harmony County, Appa junction"
+392,3,Unfurnished,Bachelors/Family,1850 sqft,36000,"Aditya Gardenia, Banjara Hills, NH"
+393,3,Furnished,Bachelors/Family,read more,30000,"Aditya Imperial Heights, Hafeezpet, NH"
+394,1,Semi-Furnished,Bachelors,East Facing Property,15000,Kondapur
+395,2,Unfurnished,Bachelors,1200 sqft,14000,Musheerabad
+396,3,Semi-Furnished,Bachelors,1525 sqft,25000,Friends Colony
+397,2,Semi-Furnished,Family,1150 sqft,18000,khairatabad
+398,2,Semi-Furnished,Bachelors/Family,1650 sqft,15000,"Golden Heights Colony, Janachaitanya colony, Hyderabad Expressway"
+399,2,Semi-Furnished,Bachelors/Family,1200 sqft,13000,Chilakalguda
+400,3,Furnished,Bachelors/Family,1580 sqft,50000,"Habsiguda, NH"
+401,2,Unfurnished,Bachelors/Family,950 sqft,8500,"B N Reddy Nagar, Nagarjuna Sagar Road"
+402,3,Semi-Furnished,Bachelors/Family,1678 sqft,16000,"Upparpally, Hyderabad Expressway"
+403,2,Unfurnished,Bachelors,1175 sqft,12000,"Anandbagh, Secunderabad, Moula Ali Road"
+404,1,Unfurnished,Bachelors/Family,read more,7000,Langar Houz
+405,3,Semi-Furnished,Bachelors,1632 sqft,25000,"LB Nagar, NH"
+406,2,Unfurnished,Bachelors,1000 sqft,15000,"Langar Houz House South, Hyderabad Expressway"
+407,4,Semi-Furnished,Bachelors,1650 sqft,23000,Toli Chowki
+408,3,Semi-Furnished,Family,1690 sqft,37000,"My Home Vihanga, Gachibowli, Outer Ring Road"
+409,1,Unfurnished,Bachelors/Family,East Facing Property,15000,"Mythri Nagar, Hafeezpet, NH"
+410,3,Semi-Furnished,Bachelors/Family,1900 sqft,26000,"Hill County Township, Bachupally, Outer Ring Road"
+411,3,Furnished,Bachelors,1648 sqft,24000,"TNR Sulakshna, LB Nagar, NH"
+412,3,Semi-Furnished,Family,1570 sqft,17000,"Manasa Vensa Ashraya, Saroornagar, NH"
+413,3,Semi-Furnished,Family,1490 sqft,30000,"Aditya Imperial Heights, Hafeezpet, NH"
+414,4,Unfurnished,Family,2675 sqft,50000,"Ashoka Liviano, P Janardhan Reddy Nagar, Gachibowli, Outer Ring Road"
+415,3,Furnished,Bachelors/Family,1660 sqft,26000,"East Oak Luxury Apartments, Pocharam, NH"
+416,3,Furnished,Bachelors/Family,1490 sqft,35000,"Aditya Imperial Heights, Hafeezpet, NH"
+417,2,Unfurnished,Bachelors/Family,650 sqft,8500,"LIG Apartments, Kukatpally, NH"
+418,3,Furnished,Bachelors/Family,1550 sqft,40000,Narayanguda
+419,2,Furnished,Bachelors/Family,1200 sqft,15000,"Devi Bagh, Bahadurpura"
+420,3,Semi-Furnished,Family,1410 sqft,23000,"Tellapur, Outer Ring Road"
+421,2,Semi-Furnished,Bachelors/Family,1200 sqft,21000,"Sriramnagar,Kothaguda"
+422,3,Semi-Furnished,Bachelors/Family,1530 sqft,28000,"Vazhraa Nirmaan Pushpak, Nizampet"
+423,2,Bachelors/Family,2,1500 sqft,25000,P&T Colony
+424,3,Semi-Furnished,Family,1725 sqft,30000,"Honer Vivantis, Nallagandla"
+425,3,Unfurnished,Bachelors/Family,read more,15000,Sri Mahalakshmi Residency
+426,3,Furnished,Bachelors/Family,1800 sqft,40000,Attapur
+427,3,Semi-Furnished,Family,1520 sqft,28000,West Marredpally
+428,2,Furnished,Bachelors,1600 sqft,11500,Almasguda
+429,3,Semi-Furnished,Bachelors,1350 sqft,15000,"Sun City, Bandlaguda, Chevella Road"
+430,3,Furnished,Bachelors/Family,2200 sqft,50000,"Whistling Woods, Kokapet, Outer Ring Road"
+431,2,Furnished,Bachelors,1200 sqft,25000,Toli Chowki
+432,2,Furnished,Bachelors,1500 sqft,30500,"Khaja Guda, Outer Ring Road"
+433,3,Unfurnished,Bachelors/Family,1643 sqft,25000,"RV Kaustubha, Kompally"
+434,3,Furnished,Bachelors/Family,1505 sqft,40000,"Aparna Serene Park, Kondapur"
+435,2,Unfurnished,Bachelors/Family,1050 sqft,8000,"Bachupally, Outer Ring Road"
+436,3,Semi-Furnished,Bachelors/Family,read more,40000,Vajras Jasmine County
+437,3,Semi-Furnished,Family,1600 sqft,22000,"Advocates Colony, Himayath Nagar"
+438,2,Furnished,Bachelors/Family,1050 sqft,28000,Police Colony-Kondapur
+439,3,Semi-Furnished,Family,1920 sqft,27000,"Hyder Nagar, NH"
+440,3,Semi-Furnished,Bachelors/Family,1300 sqft,15000,Gajularamaramm
+441,3,Semi-Furnished,Bachelors/Family,1550 sqft,16000,Madeenaguda
+442,2,Bachelors/Family,2,1275 sqft,20000,"Madinaguda, Hafeezpet, NH"
+443,2,Furnished,Bachelors/Family,1200 sqft,30000,"P Janardhan Reddy Nagar, Gachibowli, Outer Ring Road"
+444,2,Furnished,Family,1200 sqft,28000,"Alkapur Township, Manikonda, Outer Ring Road"
+445,3,Semi-Furnished,Bachelors,1525 sqft,23000,"SMR Sowmya, West Marredpally"
+446,2,Furnished,Bachelors,1100 sqft,26000,Toli Chowki
+447,3,Semi-Furnished,Bachelors/Family,1500 sqft,15000,"Bommarillu Homes, Madhura Nagar, Nizampet"
+448,3,Semi-Furnished,Bachelors/Family,1800 sqft,17500,"Sapthagiri Enclave, Bachupally, Outer Ring Road"
+449,3,Semi-Furnished,Family,1250 sqft,24000,"Malaysian Township, Kukatpally, NH"
+450,2,Semi-Furnished,Bachelors/Family,1314 sqft,30000,"Narsingi, Outer Ring Road"
+451,4,Semi-Furnished,Bachelors,1850 sqft,38000,Begumpet
+452,2,Semi-Furnished,Bachelors/Family,1314 sqft,30000,"My Home Avatar, Narsingi, Outer Ring Road"
+453,3,Unfurnished,Family,1475 sqft,15000,Sivaji Nagar-Chandanagar
+454,2,Unfurnished,Bachelors/Family,1090 sqft,30000,"Lakdikapul, NH"
+455,2,Unfurnished,Bachelors/Family,150 sqft,9000,"Uppal, NH"
+456,3,Semi-Furnished,Bachelors,1400 sqft,25000,"Dundoo Classic Tower, Boiguda"
+457,3,Semi-Furnished,Bachelors/Family,1365 sqft,15000,"Jai Jawahar Nagar, Secunderabad"
+458,2,Semi-Furnished,Bachelors/Family,970 sqft,12000,Ashgoli
+459,2,Unfurnished,Bachelors,1150 sqft,12000,Adibatla
+460,1,Furnished,Family,read more,25000,Kondapur
+461,3,Semi-Furnished,Bachelors/Family,1350 sqft,18000,Toli Chowki
+462,2,Furnished,Bachelors/Family,900 sqft,16000,"Hafeezpet, NH"
+463,3,Semi-Furnished,Bachelors/Family,1550 sqft,19500,"Mayflower Heights, Mallapur"
+464,3,Furnished,Bachelors/Family,1100 sqft,9500,"Bandlaguda, Nagole, Srisailam Highway"
+465,2,Unfurnished,Bachelors/Family,1000 sqft,14000,"Gangaram, Chandanagar, NH"
+466,3,Semi-Furnished,Bachelors/Family,1870 sqft,42000,"Vajras Jasmine County, Gachibowli, Outer Ring Road"
+467,3,Semi-Furnished,Bachelors,2535 sqft,30000,"Patels Bright View, Yapral"
+468,3,Unfurnished,Bachelors,1500 sqft,27000,"Secunderabad, Rashtrapati ROAd"
+469,3,Semi-Furnished,Bachelors,1654 sqft,16000,"VSR Celestial Towers, Gajularamaramm"
+470,3,Semi-Furnished,Family,2300 sqft,28000,"SMR Vinay Harmony County, Appa junction"
+471,3,Furnished,Bachelors,"40,000 sqft",25000,"Chitrapuri Colony, Manikonda, Outer Ring Road"
+472,3,Semi-Furnished,Bachelors/Family,2630 sqft,45000,"Hallmark KSN Residency, Kondapur"
+473,3,Furnished,Bachelors/Family,1800 sqft,45000,"Vittal Rao Nagar, Hitech City City"
+474,2,Semi-Furnished,Bachelors/Family,1275 sqft,20000,"NCL Sindhu, Satyam Enclave, Kompally, NH"
+475,2,Unfurnished,Bachelors,1100 sqft,11000,"Manovikas Nagar, Secunderabad, NH"
+476,3,Semi-Furnished,Bachelors/Family,1834 sqft,40000,"My Home Avatar, Narsingi, Outer Ring Road"
+477,3,Semi-Furnished,Bachelors,1533 sqft,28000,"Ramanthapur, NH"
+478,3,Semi-Furnished,Bachelors,1250 sqft,18000,"Pragathi Nagar, Kukatpally"
+479,4,Unfurnished,Bachelors/Family,1500 sqft,9000,"Bandlaguda, Nagole, Srisailam Highway"
+480,2,Unfurnished,Bachelors,900 sqft,8000,Patelguda
+481,2,Semi-Furnished,Bachelors/Family,950 sqft,11000,Suchitra Road
+482,3,Furnished,Bachelors/Family,1555 sqft,32000,"Hafeezpet, NH"
+483,3,Furnished,Bachelors,1600 sqft,26000,"Green Field Colony, Secunderabad"
+484,2,Semi-Furnished,Bachelors/Family,1101 sqft,14500,"Bachupally, Outer Ring Road"
+485,3,Semi-Furnished,Bachelors/Family,2800 sqft,45000,Near Gachibowli Financial district.
+486,3,Semi-Furnished,Bachelors/Family,1400 sqft,16500,"Moula Ali, Moula Ali Road"
+487,3,Furnished,Bachelors/Family,2200 sqft,50000,Gachibowli (ORR junction)
+488,2,Furnished,Bachelors/Family,1314 sqft,36000,"My Home Avatar, Narsingi, Outer Ring Road"
+489,3,Unfurnished,Bachelors,1490 sqft,35000,"Aditya Nagar, Hafeezpet"
+490,3,Semi-Furnished,Family,2200 sqft,32000,"SRI SAIRAM Towers, Indra Reddy Alwyn Colony, Miyapur, NH"
+491,2,Furnished,Bachelors/Family,1130 sqft,18000,Adibatla
+492,3,Semi-Furnished,Family,1875 sqft,40000,Shaikpet
+493,3,Semi-Furnished,Bachelors/Family,1275 sqft,13000,"Gaghan Pahad, Rajendra Nagar, Outer Ring Road"
+494,3,Unfurnished,Bachelors/Family,1510 sqft,22000,"Hafeezpet, NH"
+495,3,Semi-Furnished,Bachelors,1800 sqft,30000,"Krishna Nagar, Yousufguda"
+496,3,Semi-Furnished,Bachelors/Family,1500 sqft,12000,"Bachupally, Outer Ring Road"
+497,2,Semi-Furnished,Bachelors/Family,1200 sqft,12000,Adibatla
+498,2,Unfurnished,Bachelors/Family,1100 sqft,10000,"Malla Reddy Colony, Secunderabad"
+499,3,Furnished,Bachelors/Family,1198 sqft,36000,"Mantri Celestia, Gachibowli, Outer Ring Road"
+500,2,Unfurnished,Bachelors,1500 sqft,12000,"Buddha Nagar Colony, Boduppal"
+501,2,Furnished,Bachelors/Family,850 sqft,25000,Mehdipatnam
+502,2,Furnished,Bachelors/Family,850 sqft,28000,Mehdipatnam
+503,2,Unfurnished,Bachelors/Family,600 sqft,15000,
+504,3,Unfurnished,Bachelors,1600 sqft,15000,Dr A.S. Rao Nagar
+505,2,Semi-Furnished,Bachelors/Family,1300 sqft,12000,"Bachupally, Outer Ring Road"
+506,3,Furnished,Bachelors/Family,2400 sqft,30000,Marredpally
+507,3,Semi-Furnished,Bachelors/Family,1660 sqft,18000,"Boduppal, NH"
+508,2,Unfurnished,Bachelors/Family,1150 sqft,14000,Nizampet
+509,3,Unfurnished,Bachelors/Family,1620 sqft,15000,"Fort View, Hydershakote, Bandlaguda, Chevella Road"
+510,2,Furnished,Bachelors/Family,850 sqft,28000,Mehdipatnam
+511,3,Semi-Furnished,Family,1400 sqft,18000,Nagole
+512,2,Furnished,Bachelors/Family,850 sqft,30000,Hakimpet-Hyderabad
+513,3,Unfurnished,Bachelors/Family,1375 sqft,22000,"Quadri Happy Homes Paradise, Amberpet"
+514,2,Furnished,Family,1125 sqft,19000,Gajularamaramm
+515,3,Semi-Furnished,Bachelors,1675 sqft,30000,"Ameerpet, NH"
+516,3,Unfurnished,Bachelors/Family,1600 sqft,18000,"Rasoolpura, Mahatma Gandhi Road"
+517,3,Family,2,1550 sqft,23000,KPHB Colony
+518,3,Semi-Furnished,Bachelors/Family,1834 sqft,42000,"Narsingi, Outer Ring Road"
+519,3,Furnished,Bachelors/Family,2000 sqft,24000,"Pocharam, NH"
+520,3,Unfurnished,Bachelors/Family,1800 sqft,14000,"Boduppal, NH"
+521,3,Unfurnished,Bachelors/Family,1600 sqft,16000,"Chandanagar, NH"
+522,3,Semi-Furnished,Bachelors/Family,1400 sqft,25000,"Raghavendra Colony, NH"
+523,3,Semi-Furnished,Bachelors/Family,1400 sqft,21500,Puppalaguda
+524,3,Furnished,Bachelors,1600 sqft,40000,"My Home Avatar, Narsingi, Outer Ring Road"
+525,2,Furnished,Bachelors,1162 sqft,30000,"Aliens Fast Track, Madhapur"
+526,2,Unfurnished,Bachelors,1461 sqft,23000,"KKRs Fountainhead, Miyapur, NH"
+527,3,Semi-Furnished,Bachelors/Family,2358 sqft,35000,"Pearl Celestial, Kokapet, Outer Ring Road"
+528,2,Semi-Furnished,Bachelors/Family,1100 sqft,12000,military dairy farm rd
+529,2,Unfurnished,Bachelors/Family,1150 sqft,15000,"Skanda Srinivasam, Isnapur, Outer Ring Road"
+530,3,Unfurnished,Bachelors/Family,read more,19000,"Madinaguda, Hafeezpet, NH"
+531,3,Furnished,Bachelors/Family,2260 sqft,50000,"Green Grace, Gachibowli, Outer Ring Road"
+532,2,Semi-Furnished,Family,1205 sqft,22000,"Vazhraa Nirmaan Pushpak, Madhura Nagar, Nizampet"
+533,2,Unfurnished,Bachelors,600 sqft,16000,Papulguda
+534,2,Semi-Furnished,Bachelors,1360 sqft,18000,Humayun Nagar
+535,2,Furnished,Bachelors/Family,1200 sqft,23000,"Padmarao Nagar, Hyderabad-Karimnagar Highway"
+536,3,Semi-Furnished,Bachelors,1200 sqft,17000,"New Bowenpally, NH"
+537,3,Semi-Furnished,Bachelors/Family,1961 sqft,45000,"Punjagutta, NH"
+538,3,Unfurnished,Bachelors/Family,1400 sqft,25000,"Manikonda, Outer Ring Road"
+539,3,Semi-Furnished,Bachelors/Family,1300 sqft,22000,"Shankara Kranthi Apartment, Kavadiguda, NH"
+540,3,Unfurnished,Bachelors,1450 sqft,21000,Shaikpet
+541,3,Semi-Furnished,Bachelors,1711 sqft,33000,"IT Heights, Khaja Guda, Outer Ring Road"
+542,3,Semi-Furnished,Bachelors/Family,1600 sqft,25000,"Himayath Nagar, NH"
+543,3,Semi-Furnished,Bachelors,2540 sqft,45000,"Narsingi, Outer Ring Road"
+544,3,Furnished,Bachelors,1400 sqft,17500,"Sun City, Bandlaguda, Chevella Road"
+545,3,Unfurnished,Bachelors,1670 sqft,25000,"Upparpally, Hyderabad Expressway"
+546,2,Semi-Furnished,Family,1314 sqft,30000,"Narsingi, Outer Ring Road"
+547,3,Unfurnished,Bachelors,2150 sqft,42000,"The Legend Somajiguda I, Somajiguda, NH"
+548,3,Unfurnished,Bachelors/Family,1500 sqft,35000,Shivam Rd
+549,2,Furnished,Bachelors,900 sqft,26000,Hakimpet-Hyderabad
+550,3,Furnished,Bachelors/Family,2200 sqft,30000,"Miyapur, NH"
+551,3,Semi-Furnished,Bachelors,2540 sqft,45000,"NCC Urban One, Narsingi, Outer Ring Road"
+552,3,Unfurnished,Bachelors,1715 sqft,28000,"Habsiguda, NH"
+553,2,Semi-Furnished,Bachelors/Family,1314 sqft,31000,"My Home Avatar, Narsingi, Outer Ring Road"
+554,2,Semi-Furnished,Bachelors,1314 sqft,30000,"My Home Avatar, Narsingi, Outer Ring Road"
+555,2,Unfurnished,Bachelors/Family,1350 sqft,15000,"Bandlaguda, Nagole, Srisailam Highway"
+556,4,Furnished,Bachelors/Family,2000 sqft,35000,KPHB Road
+557,3,Semi-Furnished,Bachelors/Family,1600 sqft,22000,Gopanapalli
+558,3,Semi-Furnished,Bachelors/Family,1530 sqft,25000,"Kukatpally Housing Board Colony, NH"
+559,2,Semi-Furnished,Bachelors/Family,1300 sqft,13000,"Ramanthapur, NH"
+560,2,Semi-Furnished,Bachelors/Family,1300 sqft,15000,Rahat Nagar-Amberpet
+561,2,Unfurnished,Bachelors/Family,1000 sqft,14000,"Radha Krishna Nagar-Attapur, Attapur"
+562,3,Semi-Furnished,Bachelors,2100 sqft,27000,"SMR Sartaj Plaza, Bowenpally"
+563,3,Semi-Furnished,Bachelors/Family,1834 sqft,34000,"My Home Avatar, Narsingi, Outer Ring Road"
+564,3,Semi-Furnished,Bachelors/Family,1665 sqft,20000,Puppalaguda
+565,2,Furnished,Bachelors/Family,1135 sqft,27000,"Jaya Nagar, Kukatpally, NH"
+566,2,Unfurnished,Bachelors,1000 sqft,11000,Gajularamaramm
+567,3,Unfurnished,Bachelors,1350 sqft,20000,Attapur
+568,3,Semi-Furnished,Bachelors/Family,1400 sqft,25000,"Ameerpet, NH"
+569,3,Furnished,Bachelors/Family,1800 sqft,38000,"Aparna Sarovar, Nalagantla"
+570,2,Furnished,Bachelors/Family,850 sqft,28000,Mehdipatnam
+571,2,Furnished,Family,1210 sqft,15000,"Bachupally, Outer Ring Road"
+572,2,Furnished,Family,1500 sqft,25000,"Basheer Bagh, NH"
+573,3,Semi-Furnished,Bachelors/Family,1614 sqft,16000,Gajularamaramm
+574,3,Unfurnished,Bachelors,1650 sqft,30000,"SMR Empire, West Marredpally"
+575,3,Semi-Furnished,Bachelors,read more,8500,Janapriya Lakefront
+576,3,Semi-Furnished,Bachelors/Family,1416 sqft,16000,Nizampet
+577,2,Furnished,Bachelors,read more,13500,"Victory Estates, Jeedimetla, NH"
+578,2,Unfurnished,Bachelors/Family,870 sqft,12500,"Vasathi Anandi, Appa junction"
+579,2,Semi-Furnished,Bachelors,1250 sqft,40000,"SMR Vinay Technopolis, Madhapur"
+580,2,Unfurnished,Bachelors,1100 sqft,11000,"Pocharam, NH"
+581,3,Semi-Furnished,Bachelors,1800 sqft,18000,Nizampet
+582,3,Semi-Furnished,Family,1800 sqft,24000,"Narsingi, Outer Ring Road"
+583,2,Semi-Furnished,Bachelors,1150 sqft,27000,"Muppas Alankrita, Narsingi, Outer Ring Road"
+584,2,Unfurnished,Bachelors/Family,1080 sqft,9000,Gajularamaramm
+585,4,Semi-Furnished,Bachelors/Family,2600 sqft,21000,Trimulgherry
+586,3,Semi-Furnished,Family,1345 sqft,19000,"Raheja Vistas, Nacharam"
+587,2,Unfurnished,Bachelors,1400 sqft,24000,"Ushodaya Enclave, Hafeezpet"
+588,3,Furnished,Family,1625 sqft,16500,Nizampet
+589,2,Semi-Furnished,Bachelors/Family,1000 sqft,7000,Badangpet
+590,3,Semi-Furnished,Bachelors/Family,1500 sqft,26000,"Erragadda, NH"
+591,3,Bachelors/Family,3,1625 sqft,16500,Bandari Layout
+592,4,Furnished,Bachelors/Family,2300 sqft,50000,"Domalguda, Himayath Nagar, NH"
+593,3,Unfurnished,Bachelors,1860 sqft,42500,"Vajras Jasmine County, Gachibowli, Outer Ring Road"
+594,3,Furnished,Bachelors/Family,1575 sqft,50000,"Aditya Empress Towers, Shaikpet"
+595,3,Furnished,Family,1600 sqft,35000,"Banjara Hills, NH"
+596,3,Unfurnished,Bachelors,1435 sqft,20000,Dr A.S. Rao Nagar
+597,3,Unfurnished,Bachelors/Family,1275 sqft,20000,Boiguda
+598,3,Semi-Furnished,Family,2090 sqft,40000,"L&T Serene County, Telecom Nagar, Gachibowli, Gachibowli, Outer Ring Road"
+599,3,Semi-Furnished,Family,2425 sqft,45000,"Meenakshi Sky Lounge, Bikshapathi Nagar, Hafeezpet"
+600,2,Furnished,Bachelors/Family,1000 sqft,22000,Hitech City City
+601,2,Semi-Furnished,Bachelors,1200 sqft,25000,Madhapur
+602,3,Furnished,Bachelors/Family,1550 sqft,28000,"DD Colony, Amberpet"
+603,3,Semi-Furnished,Bachelors/Family,1900 sqft,35000,"Aditya Imperial Heights, Hafeezpet, NH"
+604,2,Semi-Furnished,Bachelors/Family,850 sqft,10000,Attapur
+605,3,Unfurnished,Family,1400 sqft,14000,Attapur
+606,2,Unfurnished,Bachelors,990 sqft,12000,Nizampet
+607,2,Semi-Furnished,Bachelors/Family,East Facing Property,13000,Pragathi Nagar
+608,2,Semi-Furnished,Family,1100 sqft,16000,"Chandanagar, NH"
+609,2,Semi-Furnished,Bachelors/Family,975 sqft,16000,"Lingampally-Serilingampally, NH"
+610,1,Semi-Furnished,Bachelors/Family,read more,6500,"Banjara Hills, NH"
+611,3,Semi-Furnished,Bachelors,1900 sqft,38000,"Lodha Meridian, Kukatpally Housing Board Colony, NH"
+612,3,Furnished,Bachelors/Family,1500 sqft,45000,Masab Tank
+613,1,Unfurnished,Bachelors,read more,12500,Madhapur
+614,2,Unfurnished,Bachelors/Family,1100 sqft,15000,"Madinaguda, Hafeezpet, NH"
+615,3,Semi-Furnished,Bachelors/Family,1750 sqft,23000,"Anjani Towers, Ameerpet, NH"
+616,3,Semi-Furnished,Bachelors/Family,1600 sqft,25000,Himayath Nagar
+617,3,Semi-Furnished,Bachelors,2000 sqft,20000,Bandlaguda Jagir
+618,3,Semi-Furnished,Bachelors/Family,1715 sqft,21000,MIGH Colony-Mehdipatnam
+619,3,Semi-Furnished,Bachelors/Family,1834 sqft,38000,"Narsingi, Outer Ring Road"
+620,2,Semi-Furnished,Bachelors,1350 sqft,16000,"Manikonda, Outer Ring Road"
+621,3,Semi-Furnished,Bachelors/Family,1560 sqft,25000,New Mallepally
+622,3,Semi-Furnished,Bachelors/Family,read more,30000,Madhapur
+623,2,Semi-Furnished,Bachelors/Family,1100 sqft,18000,"Himayath Nagar, NH"
+624,3,Semi-Furnished,Bachelors,1600 sqft,36000,"My Home Vihanga, Gachibowli, Outer Ring Road"
+625,2,Unfurnished,Bachelors,1025 sqft,15400,Begumpet
+626,1,Unfurnished,Bachelors/Family,read more,7000,New
+627,3,Unfurnished,Bachelors/Family,1800 sqft,19000,Punjagutta Colony
+628,3,Semi-Furnished,Bachelors/Family,1800 sqft,22000,Attapur
+629,3,Unfurnished,Bachelors,read more,25000,HITEC City
+630,3,Semi-Furnished,Bachelors,2600 sqft,40000,"Banjara Hills, NH"
+631,2,Semi-Furnished,Bachelors/Family,NaN,16000,Anjaneyanagar Colony
+632,2,Semi-Furnished,Bachelors,NaN,12500,"Sanath Nagar, NH"
+633,3,Semi-Furnished,Bachelors,1200 sqft,12000,Neredmet
+634,3,Furnished,Bachelors/Family,1198 sqft,40000,"Mantri Celestia, Gachibowli, Outer Ring Road"
+635,3,Semi-Furnished,Family,1602 sqft,30000,"MJR Golden Enclave, Madhapur"
+636,2,Unfurnished,Bachelors,1125 sqft,11000,"Lakshmi Nagar Colony-Hanuman Nagar Colony, Secunderabad"
+637,3,Semi-Furnished,Bachelors/Family,2000 sqft,25000,"Barkatpura, Kachiguda, NH"
+638,3,Semi-Furnished,Family,2500 sqft,48000,"Jayabheri Orange County, Gachibowli, Outer Ring Road"
+639,2,Semi-Furnished,Bachelors,1000 sqft,15000,"Gachibowli, Outer Ring Road"
+640,2,Semi-Furnished,Bachelors/Family,read more,13000,Alwal
+641,2,Semi-Furnished,Bachelors,read more,21000,"Raghavendra Colony, NH"
+642,3,Unfurnished,Bachelors/Family,1685 sqft,30000,"My Homes Jewel, Miyapur, NH"
+643,3,Semi-Furnished,Bachelors/Family,1550 sqft,28000,"Yella Reddy Guda, NH"
+644,1,Immediately,NaN,NaN,8000,"Yella Reddy Guda, NH"
+645,3,Semi-Furnished,Bachelors/Family,2100 sqft,30000,"Ashok Nagar, Himayath Nagar"
+646,3,Unfurnished,Bachelors/Family,1100 sqft,12000,"Malakpet, NH"
+647,3,Semi-Furnished,Bachelors/Family,1850 sqft,35000,"Himayath Nagar, NH"
+648,2,Semi-Furnished,Bachelors/Family,1100 sqft,17500,Kondapur
+649,3,Semi-Furnished,Bachelors,2500 sqft,47000,"Meenakshis Royal Court, Banjara Hills, NH"
+650,2,Semi-Furnished,Bachelors,1040 sqft,9500,
+651,2,Semi-Furnished,Family,1364 sqft,28000,"Jains Carlton Creek, Gachibowli, Outer Ring Road"
+652,2,Furnished,Family,1050 sqft,17000,"Manikonda Society, Manikonda, Outer Ring Road"
+653,3,Furnished,Bachelors/Family,1750 sqft,18000,"Manikonda, Outer Ring Road"
+654,2,Semi-Furnished,Bachelors/Family,1050 sqft,20000,"Kukatpally Housing Board Colony, NH"
+655,2,Unfurnished,Bachelors,1100 sqft,15000,Chikkadpally
+656,2,Semi-Furnished,Bachelors/Family,1100 sqft,18000,"Vasavi Residency, Anand Nagar-Khairatabad, NH"
+657,1,Unfurnished,Bachelors/Family,NaN,9000,"Whitefields, Hitech City"
+658,2,Semi-Furnished,Family,1300 sqft,12000,Rahat Nagar-Amberpet
+659,2,Unfurnished,Bachelors/Family,1300 sqft,12000,"Old Alwal, Secunderabad, Siddipet Road"
+660,2,Semi-Furnished,Bachelors/Family,1200 sqft,11500,"Chandanagar, NH"
+661,2,Unfurnished,Bachelors/Family,1200 sqft,15600,"Kukatpally Housing Board Colony, NH"
+662,2,Unfurnished,Bachelors,read more,9000,New Maruthi Nagar
+663,3,Unfurnished,Bachelors,1400 sqft,18000,Friends Colony
+664,1,Unfurnished,Bachelors/Family,read more,8300,Vidyanagar
+665,2,Unfurnished,Family,1060 sqft,7000,Dr A.S. Rao Nagar
+666,2,Semi-Furnished,Bachelors/Family,1100 sqft,6500,"Boduppal, NH"
+667,2,Unfurnished,Bachelors,1175 sqft,18500,"Manikonda, Outer Ring Road"
+668,2,Unfurnished,Bachelors,1800 sqft,11000,"Alkapuri, LB Nagar, NH"
+669,1,Unfurnished,Bachelors/Family,read more,7000,Vidyanagar
+670,2,Furnished,Bachelors/Family,1100 sqft,18000,"Kukatpally, NH"
+671,2,Unfurnished,Bachelors/Family,read more,11000,Fair Lands
+672,2,Unfurnished,Bachelors/Family,1200 sqft,13000,Suchitra Circle
+673,2,Unfurnished,Bachelors,read more,9500,"Uppal, NH"
+674,2,Semi-Furnished,Bachelors/Family,1200 sqft,15000,Jubilee Hills
+675,2,Bachelors/Family,1,600 sqft,5500,Nagole
+676,3,Semi-Furnished,Family,1200 sqft,22000,Road #
+677,2,Semi-Furnished,Bachelors,East Facing Property,17000,"Vivekananda Nagar, Kukatpally, NH"
+678,3,Unfurnished,Bachelors,1200 sqft,13000,"Bachupally, Outer Ring Road"
+679,3,Semi-Furnished,Family,1525 sqft,25000,"Miyapur, NH"
+680,2,Unfurnished,Bachelors/Family,950 sqft,15000,Attapur
+681,3,Furnished,Family,1665 sqft,35000,Kondapur
+682,3,Bachelors/Family,3,1575 sqft,20000,Kompally
+683,2,Semi-Furnished,Bachelors/Family,1300 sqft,17000,Gachibowli phase
+684,2,Bachelors/Family,2,1300 sqft,17000,"Gachibowli, Outer Ring Road"
+685,2,Unfurnished,Bachelors/Family,1200 sqft,7000,Sangareddy
+686,2,Semi-Furnished,Bachelors/Family,1050 sqft,15000,Masab Tank
+687,2,Bachelors/Family,2,975 sqft,28000,"Kattel Mandi, Abids"
+688,3,Semi-Furnished,Bachelors/Family,1521 sqft,18000,"Miyapur, NH"
+689,2,Furnished,Bachelors/Family,1470 sqft,25000,Attapur
+690,3,Semi-Furnished,Bachelors/Family,1650 sqft,30000,"Gopalnagar Society, Hafeezpet"
+691,2,Semi-Furnished,Bachelors/Family,1360 sqft,35000,"Kukatpally, NH"
+692,2,Semi-Furnished,Bachelors/Family,1138 sqft,20000,"Gagan Mahal, Himayath Nagar, NH"
+693,2,Semi-Furnished,Bachelors/Family,1050 sqft,16000,"Sai Nagar-Kompally, NH"
+694,3,Furnished,Bachelors/Family,1500 sqft,15000,"Surya Nagar Colony, Secunderabad, Medchal Road"
+695,2,Unfurnished,Bachelors/Family,1000 sqft,7500,Meerpet
+696,2,Furnished,Bachelors/Family,1470 sqft,25000,Attapur
+697,1,Furnished,Bachelors/Family,NaN,20000,Rajarajeshwari Nagar
+698,2,Semi-Furnished,Bachelors/Family,1220 sqft,27000,Masab Tank
+699,2,Semi-Furnished,Bachelors/Family,950 sqft,16000,Nizampet
+700,2,Furnished,Bachelors/Family,1150 sqft,33000,Jagruthi Colony
+701,3,Semi-Furnished,Bachelors/Family,2100 sqft,50000,"Gachibowli, Outer Ring Road"
+702,2,Semi-Furnished,Bachelors/Family,1000 sqft,20000,Adibatla
+703,1,Semi-Furnished,Bachelors/Family,NaN,9000,Allwyn
+704,3,Semi-Furnished,Bachelors/Family,1230 sqft,35000,"Gachibowli, Outer Ring Road"
+705,2,Semi-Furnished,Bachelors/Family,East Facing Property,25000,Financial District
+706,3,Unfurnished,Bachelors/Family,1500 sqft,37000,Kakatiya Hills madhapur
+707,2,Unfurnished,Bachelors,910 sqft,20500,"Old Nallakunta, New Nallakunta"
+708,2,Semi-Furnished,Bachelors/Family,1300 sqft,10000,"Sun City, Bandlaguda, Chevella Road"
+709,2,Unfurnished,Bachelors/Family,700 sqft,7500,Narapally
+710,3,Unfurnished,Bachelors/Family,East Facing Property,8000,Medipally
+711,1,Furnished,Bachelors/Family,NaN,6500,KPHB
+712,2,Unfurnished,Bachelors/Family,950 sqft,6000,Boduppal Dwaraka nagar
+713,2,Semi-Furnished,Bachelors/Family,800 sqft,7000,Balapur
+714,2,Unfurnished,Bachelors/Family,950 sqft,18000,Narayanaguda main road
+715,2,Semi-Furnished,Bachelors/Family,1800 sqft,15000,Fort View Colony
+716,3,Semi-Furnished,Bachelors/Family,1200 sqft,18000,Hyderabad
+717,2,Semi-Furnished,Bachelors/Family,1000 sqft,21000,Begumpet
+718,2,Furnished,Bachelors/Family,1519 sqft,25000,Suchitra Circle
+719,3,Furnished,Family,1700 sqft,22000,"Dilsukhnagar, NH"
+720,3,Semi-Furnished,Family,1570 sqft,24000,Anjaneyanagar Colony moosapet
+721,2,Semi-Furnished,Bachelors/Family,1350 sqft,20000,Gandhi Nagar-Boiguda
+722,2,Semi-Furnished,Bachelors,1250 sqft,6000,Karimnagar
+723,1,Furnished,Bachelors/Family,read more,8000,"Hafeezpet, NH"
+724,3,Semi-Furnished,Bachelors/Family,1600 sqft,20000,Hyderabad
+725,3,Semi-Furnished,Bachelors/Family,1500 sqft,35000,"Aparna Hill park Silver oaks, Chandanagar, NH"
+726,3,Semi-Furnished,Bachelors/Family,1440 sqft,22000,Mettuguda
+727,3,Semi-Furnished,Bachelors,1750 sqft,27000,"Kaithalapur, Borabanda"
+728,2,Semi-Furnished,Bachelors/Family,1000 sqft,15000,Toli Chowki
+729,2,Unfurnished,Bachelors/Family,1700 sqft,9000,Hyderabad
+730,3,Bachelors/Family,2,1040 sqft,15200,Toli Chowki
+731,3,Unfurnished,Bachelors/Family,1385 sqft,12000,Nagole
+732,2,Unfurnished,Bachelors/Family,900 sqft,9000,Bandlaguda Jagir
+733,2,Unfurnished,Bachelors/Family,950 sqft,10000,Sainikpuri
+734,3,Semi-Furnished,Family,2100 sqft,18000,"Hyder Shah Kote, Chevella Road"
+735,3,Semi-Furnished,Bachelors/Family,1350 sqft,16000,"Ramnagar Gundu, Adikmet, NH"
+736,2,Semi-Furnished,Bachelors/Family,1314 sqft,34000,"My Home Avatar, Narsingi, Outer Ring Road"
+737,3,Unfurnished,Bachelors/Family,1600 sqft,30000,"Tanasha Nagar, Outer Ring Road"
+738,3,Furnished,Bachelors/Family,2000 sqft,18500,Bowenpally
+739,2,Semi-Furnished,Bachelors/Family,1200 sqft,20000,SD Road
+740,3,Furnished,Bachelors/Family,1740 sqft,15000,"Dullapally, NH"
+741,3,Semi-Furnished,Bachelors/Family,1800 sqft,25000,"Kukatpally, NH"
+742,2,Unfurnished,Bachelors/Family,900 sqft,11000,Vidyut Nagar
+743,2,Semi-Furnished,Bachelors/Family,130 sqyrd,8000,Aminpur
+744,2,Semi-Furnished,Bachelors/Family,1182 sqft,25000,Chikkadpally
+745,2,Unfurnished,Family,875 sqft,9500,Meerpet
+746,1,Semi-Furnished,Bachelors/Family,read more,25000,"Banjara Hills, NH"
+747,2,Unfurnished,Bachelors/Family,1300 sqft,10000,Attapur
+748,3,Semi-Furnished,Bachelors/Family,1400 sqft,13000,"Tellapur, Outer Ring Road"
+749,2,Bachelors/Family,2,1250 sqft,27000,"Gachibowli, Outer Ring Road"
+750,3,Semi-Furnished,Family,1500 sqft,15000,"Vanasthalipuram, NH"
+751,2,Semi-Furnished,Bachelors/Family,750 sqft,10000,Bandlaguda Jagir
+752,2,Semi-Furnished,Bachelors/Family,750 sqft,10000,"Hyder Shah Kote, Chevella Road"
+753,3,Semi-Furnished,Bachelors/Family,1685 sqft,38000,"Gachibowli, Outer Ring Road"
+754,2,Furnished,Bachelors/Family,1000 sqft,20500,"Jalvayu Tower, Gandhi Nagar, Kavadiguda, NH"
+755,2,Unfurnished,Bachelors/Family,1200 sqft,14000,"Chandanagar, NH"
+756,2,Furnished,Bachelors/Family,100 sqyrd,22000,"Red Hills, Lakdikapul, NH"
+757,3,Semi-Furnished,Bachelors/Family,1500 sqft,16000,Nizampet
+758,3,Semi-Furnished,Bachelors/Family,1740 sqft,38000,"Financial District, Nanakram Guda"
+759,3,Semi-Furnished,Bachelors/Family,1500 sqft,20000,Brindavan Colony-Toli Chowki
+760,2,Semi-Furnished,Bachelors/Family,1275 sqft,30000,"Raghavendra Colony, NH"
+761,2,Furnished,Bachelors/Family,950 sqft,23000,"Himayath Nagar, NH"
+762,2,Semi-Furnished,Bachelors/Family,1150 sqft,13000,Nizampet
+763,2,Semi-Furnished,Bachelors/Family,1200 sqft,25000,Kondapur
+764,2,Furnished,Bachelors/Family,1000 sqft,15000,New Nallakunta
+765,3,Semi-Furnished,Bachelors/Family,1200 sqft,20000,Brindavan Colony-Toli Chowki
+766,2,Unfurnished,Bachelors/Family,1200 sqft,14000,New Nallakunta
+767,3,Semi-Furnished,Bachelors,1600 sqft,26000,"Sanjeeva Reddy Nagar, NH"
+768,3,Semi-Furnished,Bachelors/Family,1600 sqft,17000,"Arvind Nagar Colony, Toli Chowki"
+769,2,Unfurnished,Bachelors,read more,15000,Singapore
+770,3,Semi-Furnished,Bachelors/Family,1395 sqft,15000,Attapur
+771,2,Semi-Furnished,Bachelors/Family,1258 sqft,18000,"Kukatpally, NH"
+772,1,Unfurnished,Bachelors/Family,read more,14000,Kondapur
+773,2,Semi-Furnished,Bachelors/Family,1000 sqft,13000,Toli Chowki
+774,2,Semi-Furnished,Bachelors/Family,1000 sqft,15000,Mehdipatnam
+775,2,Semi-Furnished,Bachelors/Family,200 sqft,8500,OU Colony
+776,3,Semi-Furnished,Bachelors/Family,1500 sqft,25000,"Manikonda, Outer Ring Road"
+777,2,Furnished,Family,1250 sqft,16500,Mitapur
+778,2,Semi-Furnished,Bachelors/Family,1200 sqft,15500,Nizampet Road
+779,2,Unfurnished,Bachelors,1000 sqft,9000,"Safilguda, Secunderabad"
+780,3,Semi-Furnished,Bachelors/Family,1750 sqft,19500,"Hyder Nagar, NH"
+781,2,Furnished,Family,1050 sqft,16500,TulasinagarH.M.T hillsjntukphb
+782,3,Unfurnished,Bachelors/Family,1500 sqft,15000,Kanchan Bagh
+783,3,Semi-Furnished,Bachelors,1600 sqft,27000,"Kukatpally, NH"
+784,3,Furnished,Bachelors/Family,1800 sqft,44000,Himayath Nagar
+785,2,Semi-Furnished,Family,1205 sqft,22000,"Narsingi, Outer Ring Road"
+786,3,Unfurnished,Bachelors/Family,1400 sqft,18000,Asif Nagar
+787,2,Semi-Furnished,Family,1314 sqft,30000,"Narsingi, Outer Ring Road"
+788,1,Unfurnished,Bachelors/Family,NaN,20000,
+789,2,Unfurnished,Family,1050 sqft,6000,Sangareddy
+790,3,Unfurnished,Bachelors/Family,1350 ground,20000,Miyapur ground floor
+791,3,Bachelors/Family,2,1225 sqft,15000,Fort View Colony
+792,3,Semi-Furnished,Bachelors/Family,1860 sqft,45000,"Financial District, Nanakram Guda"
+793,2,Semi-Furnished,Bachelors,1000 sqft,9000,"Sri Sai Varshith Residency,  			            	 	                	 	                		 					            							          							         	Beeramguda, Ramachandra Puram, NH"
+794,2,Semi-Furnished,Bachelors/Family,1150 sqft,19500,Hyderabad
+795,1,Unfurnished,Bachelors,NaN,5000,"Quthbullapur, NH"
+796,2,Unfurnished,Bachelors/Family,1000 sqft,9000,"Poojitha enclave,Bachupally"
+797,3,Unfurnished,Bachelors/Family,1520 sqft,25000,"Hafeezpet, NH"
+798,10,Unfurnished,Bachelors/Family,900 sqft,10000,Kothapet
+799,2,Unfurnished,Bachelors/Family,820 sqft,10000,Padmanagar Phase
+800,3,Furnished,Bachelors/Family,1500 sqft,25000,Attapur
+801,3,Unfurnished,Bachelors/Family,1550 sqft,13000,Sainikpuri
+802,3,Semi-Furnished,Bachelors/Family,1685 sqft,37500,"Gachibowli, Outer Ring Road"
+803,2,Semi-Furnished,Bachelors/Family,800 sqft,20000,Banjara Hills Road No
+804,2,Semi-Furnished,Bachelors/Family,1200 sqft,20000,Sahibabad
+805,3,Semi-Furnished,Bachelors/Family,1700 sqft,18000,"Madina Colony, Falaknuma"
+806,2,Furnished,Bachelors/Family,1314 sqft,29000,"My Home Avatar,  			            	 	                	 	                		 					            							          							           							         	Puppalaguda,Narsingi,Gachibowli"
+807,3,Unfurnished,Bachelors/Family,1800 sqft,20000,Tolli Chowki
+808,2,Semi-Furnished,Bachelors/Family,950 sqft,16000,Himayath Nagar
+809,2,Unfurnished,Family,1200 sqft,13500,Mehdipatnam Padmanabha Nagar
+810,2,Unfurnished,Bachelors/Family,1000 sqft,11000,"Moula Ali, Moula Ali Road"
+811,2,Unfurnished,Bachelors/Family,1000 sqft,12000,"Rajendra Nagar, Outer Ring Road"
+812,3,Furnished,Bachelors/Family,1400 sqft,17500,Bandlaguda
+813,2,Semi-Furnished,Bachelors/Family,1080 sqft,13000,Bandam Kommu
+814,3,Semi-Furnished,Bachelors,East Facing Property,35000,Kondapur
+815,2,Semi-Furnished,Bachelors/Family,1800 sqft,10000,"Beeramguda, Ramachandra Puram, NH"
+816,2,Bachelors/Family,2,1312 sqft,30000,"Narsingi, Outer Ring Road"
+817,3,Furnished,Bachelors/Family,1620 sqft,22000,"Deepthisri Nagar, NH"
+818,2,Unfurnished,Bachelors/Family,975 sqft,16000,Tolli Chowki
+819,3,Unfurnished,Bachelors/Family,1200 sqft,15000,Nallakunta
+820,3,Semi-Furnished,Bachelors/Family,1520 sqft,10000,"Sai Homes, Peerzadiguda"
+821,2,Furnished,Bachelors/Family,950 sqft,18500,"Chintal, NH"
+822,3,Unfurnished,Bachelors/Family,1400 sqft,15000,"Defence Colony, Secunderabad"
+823,2,Semi-Furnished,Bachelors/Family,1400 sqft,22000,Vinayak Nagar
+824,2,Furnished,Bachelors/Family,870 sqft,15000,"Moula Ali, Moula Ali Road"
+825,3,Semi-Furnished,Bachelors/Family,1450 sqft,17000,Friends Colony
+826,2,Semi-Furnished,Bachelors/Family,1200 sqft,14000,Toli Chowki
+827,2,Unfurnished,Bachelors/Family,800 sqft,8500,Meerpet
+828,3,Semi-Furnished,Bachelors/Family,1870 sqft,40000,"Gachibowli, Outer Ring Road"
+829,2,Furnished,Bachelors/Family,900 sqft,30000,"Mythri Nagar, Hafeezpet, NH"
+830,2,Semi-Furnished,Bachelors/Family,1145 sqft,13000,"Secunderabad, Rashtrapati ROAd"
+831,3,Furnished,Bachelors/Family,1950 sqft,50000,"Banjara Hills, NH"
+832,3,Semi-Furnished,Bachelors/Family,1200 sqft,25000,"Khairatabad, NH"
+833,3,Semi-Furnished,Bachelors/Family,1568 sqft,25000,Appa junction
+834,3,Furnished,Bachelors/Family,1800 sqft,35000,"Khairatabad, NH"
+835,2,Unfurnished,Bachelors/Family,1000 sqft,6500,Karimnagar
+836,2,Semi-Furnished,Bachelors/Family,500 sqft,8000,rtc cross road
+837,1,Furnished,Bachelors/Family,read more,18000,Gopanapalli
+838,2,Semi-Furnished,Family,1045 sqft,20000,MIGH Colony-Mehdipatnam
+839,1,Unfurnished,Bachelors/Family,read more,8700,Santosh
+840,2,Unfurnished,Bachelors/Family,1350 sqft,15000,Attapur
+841,3,Semi-Furnished,Bachelors/Family,2560 sqft,38000,Kompally
+842,4,Unfurnished,Bachelors,3000 sqft,40000,
+843,3,Semi-Furnished,Bachelors/Family,1800 sqft,40000,"Banjara Hills, NH"
+844,3,Semi-Furnished,Bachelors/Family,2200 sqft,30000,"Manikonda, Outer Ring Road"
+845,3,Furnished,Bachelors/Family,1800 sqft,37000,"Gachibowli, Outer Ring Road"
+846,2,Unfurnished,Bachelors,1350 sqft,15000,"LB Nagar, NH"
+847,4,Unfurnished,Bachelors/Family,2400 sqft,38000,"Ameerpet, NH"
+848,1,Semi-Furnished,Bachelors/Family,read more,7500,"Uppal, NH"
+849,2,Semi-Furnished,Bachelors/Family,1200 sqft,12000,"Uppal, NH"
+850,2,Semi-Furnished,Bachelors/Family,1370 sqft,23000,"Kokapet, Outer Ring Road"
+851,3,Semi-Furnished,Bachelors,East Facing Property,20000,Manikonda
+852,3,Semi-Furnished,Bachelors/Family,1500 sqft,18000,"Alkapur Township, Manikonda, Outer Ring Road"
+853,1,Semi-Furnished,Bachelors/Family,Near Oliv Mount School,10000,Nalanda Nagar
+854,3,Bachelors/Family,3,1400 sqft,16000,New Nallakunta
+855,3,Furnished,Family,1280 sqft,35000,"CMC Enclave, Kondapur"
+856,2,Family,2,1200 sqft,24000,Kondapur
+857,2,Unfurnished,Bachelors/Family,read more,14500,"Aarambh Township, Chandanagar, NH"
+858,1,Semi-Furnished,Bachelors/Family,read more,9000,"Punjagutta, NH"
+859,2,Unfurnished,Bachelors,East Facing Property,13000,Nizampet
+860,1,Unfurnished,Bachelors/Family,NaN,7000,Vidyanagar
+861,3,Semi-Furnished,Bachelors/Family,1750 sqft,17000,"Madinaguda, Hafeezpet, NH"
+862,2,Semi-Furnished,Family,1000 sqft,18000,"Venkata Ramana Colony, Nagole"
+863,3,Unfurnished,Bachelors,1980 sqft,32000,Kondapur
+864,1,Semi-Furnished,Bachelors/Family,"Near huda maitrivanam,ameerpet.",7000,"Ameerpet, NH"
+865,2,Semi-Furnished,Bachelors/Family,900 sqft,16500,Begumpet
+866,1,Unfurnished,Bachelors/Family,read more,6500,Bachupally
+867,1,Semi-Furnished,Bachelors/Family,read more,7500,"Beeramguda, Ramachandra Puram, NH"
+868,2,Unfurnished,Bachelors/Family,1008 sqft,10000,"Upparpally, Hyderabad Expressway"
+869,2,Furnished,Family,1200 sqft,26000,"Srinija Gayatri Hills, Gachibowli, Outer Ring Road"
+870,3,Semi-Furnished,Bachelors,1350 sqft,15000,Nizampet
+871,2,Semi-Furnished,Bachelors/Family,1000 sqft,11000,"The Legend Vittalwadi, Narayanguda"
+872,2,Furnished,Bachelors/Family,1200 sqft,30000,"P Janardhan Reddy Nagar, Gachibowli, Outer Ring Road"
+873,2,Unfurnished,Bachelors,read more,8500,Meerpet
+874,3,Semi-Furnished,Bachelors/Family,1710 sqft,30000,"Saptagiri Colony, Kukatpally, NH"
+875,2,Unfurnished,Bachelors,1000 sqft,11000,"LB Nagar, NH"
+876,3,Bachelors/Family,2,1250 sqft,23000,"Kukatpally, NH"
+877,2,Semi-Furnished,Bachelors/Family,1314 sqft,30000,"My Home Avatar, Narsingi, Outer Ring Road"
+878,2,Semi-Furnished,Bachelors/Family,1050 sqft,15000,Masab Tank
+879,2,Semi-Furnished,Bachelors/Family,1200 sqft,18000,Nizampet
+880,2,Unfurnished,Bachelors,1200 sqft,12000,"Rajiv Gandhi Nagar Colony, Nizampet"
+881,2,Semi-Furnished,Bachelors/Family,1050 sqft,14000,"Gandhi Nagar, Kavadiguda, NH"
+882,1,Unfurnished,Bachelors/Family,read more,6000,Lalaguda
+883,2,Unfurnished,Bachelors,East Facing Property,22000,"Yousufguda, NH"
+884,3,Semi-Furnished,Bachelors/Family,1680 sqft,21000,"Narsingi, Outer Ring Road"
+885,2,Unfurnished,Bachelors/Family,135 sqyrd,8000,Hyderabad
+886,2,Semi-Furnished,Family,2000 sqft,15000,"LB Nagar, NH"
+887,3,Furnished,Bachelors/Family,1900 sqft,25000,"Punjagutta, NH"
+888,2,Unfurnished,Bachelors/Family,1000 sqft,10000,Syed Nagar
+889,2,Unfurnished,Bachelors/Family,1300 sqft,15000,Hyderaguda-Attapur
+890,2,Unfurnished,Bachelors/Family,1160 sqft,12000,Gajularamaram
+891,3,Semi-Furnished,Bachelors/Family,1500 sqft,26000,Sri Nagar Colony
+892,2,Unfurnished,Bachelors,1250 sqft,7000,Ramakrishnapuram-Neredmet
+893,2,Semi-Furnished,Bachelors/Family,1250 sqft,22000,"Srinija Gayatri Hills, Gachibowli, Outer Ring Road"
+894,2,Semi-Furnished,Bachelors/Family,1160 sqft,12000,"Dilsukhnagar, NH"
+895,2,Semi-Furnished,Bachelors/Family,1100 sqft,9000,Alwal
+896,2,Semi-Furnished,Family,960 sqft,9000,"Sri Vasavi Siva Nagar Colony, Secunderabad"
+897,2,Unfurnished,Bachelors/Family,900 sqft,5000,Maruthi Nagar
+898,3,Semi-Furnished,Bachelors/Family,1650 sqft,19500,Attapur
+899,3,Semi-Furnished,Bachelors/Family,2000 sqft,15000,ECIL
+900,2,Semi-Furnished,Family,1400 sqft,25000,"Manikonda, Outer Ring Road"
+901,3,Semi-Furnished,Bachelors/Family,1400 sqft,20000,"Kukatpally, NH"
+902,2,Semi-Furnished,Bachelors/Family,890 sqft,8500,Chandanagar
+903,3,Semi-Furnished,Bachelors/Family,1525 sqft,7500,Gajularamaramm
+904,3,Furnished,Bachelors/Family,2894 sqft,50000,"P Janardhan Reddy Nagar, Gachibowli, Outer Ring Road"
+905,2,Furnished,Bachelors/Family,1314 sqft,34000,Nanakram Guda
+906,2,Semi-Furnished,Bachelors/Family,1141 sqft,23000,Kondapur
+907,2,Unfurnished,Bachelors/Family,850 sqft,8500,"Murad Nagar, Lal Darwaza, Falaknuma Road"
+908,2,Unfurnished,Bachelors,East Facing Property,15000,Attapur
+909,2,Semi-Furnished,Bachelors/Family,1050 sqft,12000,Teja Colony
+910,1,Unfurnished,Bachelors/Family,read more,8000,Bhagya Nagar Colony
+911,3,Semi-Furnished,Bachelors/Family,read more,15000,Pragathi Nagar
+912,3,Unfurnished,Bachelors/Family,read more,21000,"Kukatpally, NH"
+913,2,Semi-Furnished,Family,1400 sqft,19000,Suchitra Circle
+914,2,Semi-Furnished,Family,1115 sqft,15000,Hyderabad
+915,1,Unfurnished,Bachelors/Family,NaN,22000,"Qader Ali Apartment, Malakpet, NH"
+916,1,Semi-Furnished,Bachelors,NaN,15000,Sri Ramnagar - Block C
+917,2,Semi-Furnished,Bachelors/Family,read more,20000,"Madhura Nagar, NH"
+918,3,Semi-Furnished,Bachelors,1600 sqft,27000,"Aparna CyberZon, Nallagandla, Serilingampally"
+919,3,Semi-Furnished,Bachelors/Family,2500 sqft,38000,Hyderguda
+920,3,Semi-Furnished,Bachelors,East Facing Property,30000,Rainbow Vistas Rock Gardens
+921,3,Semi-Furnished,Bachelors/Family,1600 sqft,35000,"Patrika Nagar, Hitech City City"
+922,2,Semi-Furnished,Bachelors/Family,1150 sqft,13500,"Akshay Homes, Nagole"
+923,2,Unfurnished,Bachelors/Family,1120 sqft,15000,"Moosarambagh, NH"
+924,3,Unfurnished,Bachelors/Family,1458 sqft,10000,"Hayathnagar, NH"
+925,2,Unfurnished,Bachelors,1230 sqft,15000,"Giridhari Murari, Appa junction"
+926,1,Unfurnished,Bachelors,"Near silver oaks school, Krcr colony road number 1",9500,Bachupally
+927,2,Unfurnished,Bachelors,1080 sqft,12000,Dr A.S. Rao Nagar
+928,3,Semi-Furnished,Bachelors/Family,3000 sqft,49000,"Mount Meru, Banjara Hills, NH"
+929,2,Semi-Furnished,Bachelors/Family,980 sqft,14000,"Durgabai Deshmukh Colony, Amberpet"
+930,3,Semi-Furnished,Bachelors/Family,1350 sqft,20000,Shaikpet
+931,3,Semi-Furnished,Family,1436 sqft,23000,"Shanta Sriram Sonata, New Nallakunta"
+932,3,Semi-Furnished,Bachelors,1510 sqft,15000,"ARK Homes, Bolarum, Medchal Road"
+933,3,Semi-Furnished,Family,1800 sqft,23000,"Hyder Nagar, NH"
+934,3,Semi-Furnished,Family,2400 sqft,22000,Osman Nagar
+935,3,Unfurnished,Bachelors,2000 sqft,40000,Begumpet
+936,3,Semi-Furnished,Bachelors/Family,1440 sqft,22000,"Old Malakpet, NH"
+937,3,Semi-Furnished,Bachelors/Family,1340 sqft,16500,Aminpur
+938,3,Semi-Furnished,Bachelors/Family,950 sqft,15000,"Gulshan Colony, Qutub Shahi Tombs"
+939,3,Semi-Furnished,Family,2600 sqft,35000,"Stonehenge, Appa junction"
+940,1,Unfurnished,Bachelors/Family,East Facing Property,12500,Toli
+941,3,Semi-Furnished,Bachelors/Family,1900 sqft,20000,"Gulshan Colony, Qutub Shahi Tombs"
+942,1,Semi-Furnished,Bachelors/Family,East Facing Property,10500,"Hafeezpet, NH"
+943,2,Unfurnished,Bachelors/Family,1050 sqft,16000,Attapur
+944,2,Unfurnished,Bachelors,850 sqft,7500,Nagaram
+945,3,Semi-Furnished,Bachelors/Family,2700 sqft,48000,"Lanco Hills, Manikonda, Outer Ring Road"
+946,2,Unfurnished,Bachelors,850 sqft,11000,Hyder Nagar
+947,3,Semi-Furnished,Bachelors/Family,1900 sqft,20000,Nizampet
+948,3,Unfurnished,Bachelors,1200 sqft,15000,New Nallakunta
+949,3,Semi-Furnished,Bachelors,1500 sqft,14000,"Janapriya Arcadia, Alwal"
+950,2,Unfurnished,Bachelors/Family,750 sqft,12000,"Bachupally, Outer Ring Road"
+951,2,Semi-Furnished,Bachelors/Family,1215 sqft,15000,Aminpur
+952,2,Unfurnished,Family,1245 sqft,15000,"NSK Bliss Meadows, Madinaguda, Hafeezpet, NH"
+953,4,Semi-Furnished,Bachelors/Family,2311 sqft,45000,"Jains Carlton Creek, Gachibowli, Outer Ring Road"
+954,3,Unfurnished,Bachelors,2240 sqft,23000,"Tellapur, Outer Ring Road"
+955,2,Semi-Furnished,Bachelors/Family,1350 sqft,14000,Nizampet
+956,3,Furnished,Bachelors/Family,1550 sqft,40000,Narayanguda
+957,2,Furnished,Bachelors,1300 sqft,25000,Moti Nagar
+958,3,Semi-Furnished,Bachelors/Family,2160 sqft,36000,"Sanath Nagar, NH"
+959,3,Unfurnished,Family,1630 sqft,16000,"SV Brindavanam, Boduppal, NH"
+960,1,Unfurnished,Bachelors/Family,read more,12000,"Ameerpet, NH"
+961,2,Unfurnished,Bachelors/Family,780 sqft,12500,Kothapet
+962,2,Unfurnished,Bachelors/Family,1500 sqft,10000,Dr A.S. Rao Nagar
+963,3,Unfurnished,Bachelors/Family,1650 sqft,15000,"Miyapur, NH"
+964,3,Semi-Furnished,Bachelors,1625 sqft,20500,"Mayflower Heights, Mallapur"
+965,3,Semi-Furnished,Bachelors/Family,1414 sqft,25000,"RDB Coconut Grove, Miyapur, NH"
+966,2,Semi-Furnished,Bachelors,1200 sqft,14500,Suchitra Circle
+967,2,Unfurnished,Bachelors,1000 sqft,15000,"Langar Houz House South, Hyderabad Expressway"
+968,3,Unfurnished,Family,1335 sqft,32000,Hitech City City
+969,1,Furnished,Bachelors/Family,NaN,20000,Chitrapuri Colony
+970,2,Furnished,Bachelors/Family,1200 sqft,32000,"SK Wonders, Kondapur"
+971,2,Semi-Furnished,Bachelors/Family,2200 sqft,13000,Toli Chowki
+972,3,Unfurnished,Bachelors,1850 sqft,20000,Nizampet
+973,2,Semi-Furnished,Bachelors,1000 sqft,9500,Vayupuri
+974,3,Semi-Furnished,Bachelors,1650 sqft,35000,"The Legend, Himayath Nagar, NH"
+975,2,Unfurnished,Bachelors,1000 sqft,9000,"Saket, Secunderabad"
+976,3,Semi-Furnished,Bachelors/Family,1800 sqft,16000,"Old Malakpet, NH"
+977,3,Semi-Furnished,Bachelors,1735 sqft,30000,"Keesara Homes, Domalguda, Himayath Nagar, NH"
+978,3,Semi-Furnished,Bachelors,1500 sqft,16000,"Neknampur, Manikonda, Outer Ring Road"
+979,2,Furnished,Bachelors,1048 sqft,44000,"Golf Edge, Gachibowli, Outer Ring Road"
+980,3,Semi-Furnished,Family,2187 sqft,50000,"Jains Ravi Gayathri Heights, Hitech City City"
+981,3,Semi-Furnished,Bachelors/Family,1600 sqft,22000,"Miyapur, NH"
+982,2,Semi-Furnished,Bachelors,1000 sqft,14000,Attapur
+983,2,Unfurnished,Bachelors,100 sqyrd,15000,Toli Chowki
+984,1,Unfurnished,Bachelors/Family,read more,6000,"Ramanthapur, NH"
+985,3,Semi-Furnished,Bachelors,1698 sqft,15000,"Upparpally, Hyderabad Expressway"
+986,3,Semi-Furnished,Bachelors/Family,1800 sqft,33000,"Ashok Nagar, Himayath Nagar"
+987,2,Semi-Furnished,Family,1250 sqft,12000,"Venkata Sai Enclave, Nizampet"
+988,1,Semi-Furnished,Bachelors/Family,read more,12000,Langar Houz
+989,4,Semi-Furnished,Bachelors,3000 sqft,40000,"Kokapet, Outer Ring Road"
+990,2,Unfurnished,Bachelors,1000 sqft,12000,Old Bowenpally
+991,2,Unfurnished,Bachelors,1000 sqft,16000,Jawahar Nagar-Chikkadpally
+992,2,Semi-Furnished,Bachelors/Family,1050 sqft,18000,"Kalyan Nagar, New Malakpet, NH"
+993,2,Semi-Furnished,Bachelors,1000 sqft,11000,"Hyder Shah Kote, Chevella Road"
+994,2,Semi-Furnished,Bachelors,1350 sqft,12000,"Sun City, Bandlaguda, Chevella Road"
+995,3,Unfurnished,Bachelors/Family,1450 sqft,18000,"Kukatpally Housing Board Colony, NH"
+996,3,Semi-Furnished,Bachelors,1100 sqft,14000,Toli Chowki
+997,1,Semi-Furnished,Bachelors/Family,"			                       									            								                							                	East Facing Property							                				                        			                       ",11000,
+998,3,Semi-Furnished,Bachelors,1755 sqft,29000,"Sri Hemadurga Sivahills,  			            	 	                	 	                		 					            							          							         	Puppalaguda"
+999,2,Semi-Furnished,Bachelors/Family,1300 sqft,13000,"Ashok Nagar-Ramachandra Puram, NH"
+1000,2,Unfurnished,Bachelors,"			                       									            								                							                	East Facing Property							                				                        			                       ",18000,
+1001,1,Unfurnished,Bachelors,"			                       									            								                							                	East Facing Property							                				                        			                       ",7500,
+1002,3,Unfurnished,Bachelors,1500 sqft,22000,"Hima Shiva,  			            	 	                	 	                		 					            							          							         	New Nallakunta"
+1003,3,Furnished,Bachelors/Family,2005 sqft,45000,"Shanthinikethan,  			            	 	                	 	                		 					            							          							         	Whitefields, Hitech City"
+1004,3,Semi-Furnished,Bachelors,1800 sqft,26000,"Chitrapuri Colony,  			            	 	                	 	                		 					            							          							         	Manikonda, Outer Ring Road"
+1005,3,Semi-Furnished,Bachelors/Family,1600 sqft,27000,"Barkatpura, Kachiguda, NH"
+1006,4,Semi-Furnished,Bachelors,2000 sqft,23000,"Aziz Bagh Colony, Toli Chowki"
+1007,3,Unfurnished,Bachelors,1650 sqft,18500,"Amulya Fortune,  			            	 	                	 	                		 					            							          							         	Miyapur, NH"
+1008,2,Unfurnished,Bachelors,1000 sqft,20000,Ravi Colony
+1009,3,Semi-Furnished,Bachelors,1453 sqft,17000,"Aakriti Honey dew,  			            	 	                	 	                		 					            							          							         	Tellapur, Outer Ring Road"
+1010,1,Semi-Furnished,Bachelors/Family,read more,8500,Manikonda
+1011,1,Bachelors/Family,1,NaN,10000,
+1012,2,Unfurnished,Family,700 sqft,17000,"Nallagandla, Serilingampally"
+1013,2,Unfurnished,Bachelors/Family,1000 sqft,18000,Mehdipatnam
+1014,3,Semi-Furnished,Bachelors/Family,1400 sqft,16000,"Prajapati Elite,  			            	 	                	 	                		 					            							          							         	Miyapur, NH"
+1015,2,Semi-Furnished,Bachelors,1125 sqft,15000,Bandlaguda Jagir
+1016,2,Unfurnished,Bachelors/Family,950 sqft,10000,"Old Malakpet, NH"
+1017,2,Unfurnished,Bachelors/Family,1100 sqft,8000,Aminpur
+1018,3,Semi-Furnished,Bachelors,1490 sqft,30000,"Aditya Imperial Heights,  			            	 	                	 	                		 					            							          							         	Hafeezpet, NH"
+1019,2,Furnished,Bachelors/Family,1200 sqft,27000,"Shreya Elegance,  			            	 	                	 	                		 					            							          							         	Manikonda, Outer Ring Road"
+1020,2,Semi-Furnished,Bachelors/Family,1200 sqft,10000,"Sun City, Bandlaguda, Chevella Road"
+1021,1,Furnished,Bachelors/Family,"			                       									            								                							                	East Facing Property							                				                        			                       ",15000,"Red Hills, Lakdikapul, NH"
+1022,3,Semi-Furnished,Bachelors/Family,2060 sqft,20000,"Gachibowli, Outer Ring Road"
+1023,3,Unfurnished,Bachelors/Family,1250 sqft,13000,"Upparpally, Hyderabad Expressway"
+1024,2,Unfurnished,Bachelors/Family,800 sqft,11000,"Nallagandla, Serilingampally"
+1025,2,Semi-Furnished,Bachelors/Family,800 sqft,10000,"Red Hills, Lakdikapul, NH"
+1026,1,Semi-Furnished,Bachelors/Family,read more,7000,Vidyanagar
+1027,2,Unfurnished,Bachelors,1000 sqft,8000,"Chaitanyapuri, Kothapet"
+1028,2,Unfurnished,Bachelors/Family,900 sqft,10000,"Kukatpally, NH"
+1029,1,Unfurnished,Bachelors/Family,read more,12000,"Banjara Hills, NH"
+1030,3,Semi-Furnished,Bachelors/Family,1600 sqft,20000,"Banjara Hills, NH"
+1031,3,Semi-Furnished,Bachelors/Family,1715 sqft,21000,Mehdipatnam
+1032,3,Semi-Furnished,Bachelors/Family,2000 sqft,15000,"Tellapur, Outer Ring Road"
+1033,1,Unfurnished,Bachelors/Family,read more,7500,
+1034,2,Semi-Furnished,Bachelors/Family,1000 sqft,10000,"Kukatpally, NH"
+1035,2,Unfurnished,Bachelors/Family,1200 sqft,15000,Santosh Nagar-Mehdipatnam
+1036,2,Semi-Furnished,Bachelors/Family,1000 sqft,11000,"Malakpet, NH"
+1037,2,Unfurnished,Bachelors/Family,1100 sqft,14500,"Madinaguda, Hafeezpet, NH"
+1038,2,Unfurnished,Bachelors/Family,1150 sqft,7500,Karmanghat
+1039,3,Semi-Furnished,Bachelors/Family,1550 sqft,26000,"Banjara Hills, NH"
+1040,1,Unfurnished,Bachelors/Family,NaN,5000,Chatta Bazaar
+1041,2,Unfurnished,Bachelors/Family,100 sqyrd,8000,"Neknampur, Manikonda, Outer Ring Road"
+1042,3,Semi-Furnished,Bachelors/Family,1375 sqft,20000,"Manikonda, Outer Ring Road"
+1043,2,Unfurnished,Bachelors/Family,1000 sqft,12000,Nizampet
+1044,2,Unfurnished,Bachelors,950 sqft,14000,Kalyan Nagar-Moti Nagar
+1045,2,Semi-Furnished,Bachelors/Family,1000 sqft,7500,"Kukatpally, NH"
+1046,2,Semi-Furnished,Bachelors/Family,2100 sqft,27000,"Gachibowli, Outer Ring Road"
+1047,2,Semi-Furnished,Bachelors/Family,1000 sqft,11000,Moti Nagar
+1048,2,Semi-Furnished,Bachelors/Family,1100 sqft,18000,Puppalaguda
+1049,2,Semi-Furnished,Family,1035 sqft,13500,"Pragathi Nagar, Kukatpally"
+1050,1,Furnished,Bachelors/Family,read more,14000,
+1051,2,Semi-Furnished,Bachelors/Family,1300 sqft,13000,"Manikonda, Outer Ring Road"
+1052,3,Semi-Furnished,Bachelors/Family,2800 sqft,40000,"Banjara Hills, NH"
+1053,3,Semi-Furnished,Bachelors,940 sqft,11000,Janapriya Utopia
+1054,3,Furnished,Family,1690 sqft,15000,"Chandanagar, NH"
+1055,2,Semi-Furnished,Bachelors/Family,900 sqft,16000,"Ameerpet, NH"
+1056,3,Semi-Furnished,Bachelors,1500 sqft,15000,Suchitra Circle
+1057,2,Semi-Furnished,Bachelors/Family,1300 sqft,16000,"Banjara Hills, NH"
+1058,2,Furnished,Bachelors/Family,750 sqft,15000,Masab Tank
+1059,3,Furnished,Bachelors/Family,1570 sqft,35000,"Venkata Sai Residency,  			            	 	                	 	                		 					            							          							         	Kondapur"
+1060,2,Unfurnished,Bachelors/Family,1000 sqft,8500,"Dilsukhnagar, NH"
+1061,3,Semi-Furnished,Family,1700 sqft,27000,Madhapur
+1062,1,Semi-Furnished,Bachelors/Family,read more,10000,Moti Nagar RWA
+1063,3,Unfurnished,Bachelors,1400 sqft,18000,"Banjara Hills, NH"
+1064,2,Unfurnished,Bachelors/Family,1000 sqft,15000,Humayun Nagar
+1065,1,Unfurnished,Bachelors/Family,read more,11000,
+1066,3,Semi-Furnished,Bachelors,1800 sqft,20000,Toli Chowki
+1067,3,Semi-Furnished,Bachelors,2000 sqft,20000,Puppalaguda
+1068,2,Semi-Furnished,Bachelors/Family,1100 sqft,20000,"Manikonda, Outer Ring Road"
+1069,3,Semi-Furnished,Bachelors,1200 sqft,9250,Bowenpally
+1070,2,Unfurnished,Bachelors/Family,1200 sqft,14000,"Jaya Nagar, Kukatpally, NH"
+1071,2,Unfurnished,Bachelors,1100 sqft,10000,Sivaji Nagar-Chandanagar
+1072,3,Semi-Furnished,Bachelors,1265 sqft,16000,"Armsburg My Space,  			            	 	                	 	                		 					            							          							         	Kompally"
+1073,2,Semi-Furnished,Bachelors,1350 sqft,12000,"Sun City, Bandlaguda, Chevella Road"
+1074,2,Semi-Furnished,Bachelors/Family,1100 sqft,14000,"Kukatpally, NH"
+1075,3,Semi-Furnished,Bachelors/Family,2000 sqft,18000,"Manikonda, Outer Ring Road"
+1076,3,Unfurnished,Bachelors/Family,1650 sqft,16000,"Manikonda, Outer Ring Road"
+1077,2,Semi-Furnished,Bachelors/Family,1430 sqft,7500,"Hydershakote, Bandlaguda, Chevella Road"
+1078,2,Unfurnished,Bachelors,1280 sqft,13500,Bandari Layout
+1079,1,Unfurnished,Bachelors/Family,read more,8000,
+1080,3,Furnished,Bachelors/Family,1200 sqft,16000,Amberpet
+1081,2,Unfurnished,Bachelors,850 sqft,13000,"Kukatpally Housing Board Colony, NH"
+1082,2,Semi-Furnished,Bachelors/Family,1400 sqft,22000,Kondapur
+1083,1,Unfurnished,Bachelors,East Facing Property,10000,Narsingi
+1084,2,Semi-Furnished,Bachelors/Family,1150 sqft,14500,Humayun Nagar
+1085,2,Semi-Furnished,Bachelors/Family,900 sqft,20000,Moti Nagar
+1086,3,Semi-Furnished,Bachelors,1400 sqft,22000,"Amrutha Avenue, Manikonda, Outer Ring Road"
+1087,2,Bachelors/Family,2,980 sqft,15500,Narayanguda
+1088,2,Semi-Furnished,Bachelors/Family,850 sqft,12000,Moti Nagar
+1089,2,Semi-Furnished,Bachelors/Family,915 sqft,9000,Neredmet
+1090,3,Semi-Furnished,Bachelors/Family,2600 sqft,30000,Kondapur
+1091,2,Unfurnished,Bachelors,1200 sqft,23000,"Domalguda, Himayath Nagar, NH"
+1092,2,Semi-Furnished,Bachelors/Family,1200 sqft,8000,"Bachupally, Outer Ring Road"
+1093,2,Unfurnished,Bachelors/Family,1150 sqft,14000,"Kachiguda, NH"
+1094,2,Unfurnished,Family,1000 sqft,11000,"LB Nagar, NH"
+1095,3,Unfurnished,Bachelors/Family,1855 sqft,35000,Hitech City City
+1096,1,Unfurnished,Bachelors,read more,5000,Hyderaguda-Attapur
+1097,2,Unfurnished,Bachelors,read more,10000,Hasmathpet
+1098,2,Semi-Furnished,Bachelors/Family,91 sqyrd,12000,"Miyapur, NH"
+1099,2,Semi-Furnished,Bachelors/Family,1314 sqft,28000,"Gachibowli, Outer Ring Road"
+1100,1,Unfurnished,Bachelors,East Facing Property,10000,"Hafeezpet, NH"
+1101,2,Furnished,Bachelors/Family,980 sqft,15000,"Madinaguda, Hafeezpet, NH"
+1102,3,Bachelors/Family,3,1700 sqft,20000,Shaikpet
+1103,2,Furnished,Bachelors/Family,1275 sqft,18000,"Kukatpally Housing Board Colony, NH"
+1104,1,Semi-Furnished,Bachelors/Family,NaN,12500,INCOR Bonsai Homes
+1105,1,Unfurnished,Bachelors/Family,East Facing Property,6000,Begumpet
+1106,2,Unfurnished,Bachelors/Family,1050 sqft,9000,"Sri Sai Varshith Residency, Beeramguda, Ramachandra Puram, NH"
+1107,2,Semi-Furnished,Bachelors/Family,1750 sqft,22000,Q City
+1108,2,Unfurnished,Family,970 sqft,15000,KPHB Road
+1109,2,Bachelors/Family,2,1250 sqft,20000,Kondapur
+1110,2,Semi-Furnished,Bachelors,East Facing Property,12000,Gulistan Apartments
+1111,3,Semi-Furnished,Bachelors,1300 sqft,13000,"Salar Jung Colony, Toli Chowki"
+1112,2,Semi-Furnished,Bachelors/Family,1260 sqft,16000,Tarnaka
+1113,2,Semi-Furnished,Bachelors/Family,1080 sqft,13000,Bandam Kommu
+1114,2,Furnished,Bachelors/Family,1150 sqft,15000,"Park Stone, Attapur"
+1115,2,Semi-Furnished,Bachelors/Family,1314 sqft,25000,"Narsingi, Outer Ring Road"
+1116,2,Unfurnished,Family,1000 sqft,16500,"Somajiguda, NH"
+1117,2,Furnished,Bachelors/Family,925 sqft,5000,"Sai Darshan, HMT Nagar, Secunderabad"
+1118,3,Semi-Furnished,Bachelors,1690 sqft,40000,"My Home Vihanga, Gachibowli, Outer Ring Road"
+1119,3,Semi-Furnished,Bachelors/Family,1035 sqft,20000,"Jains Amrutha, Vengal Rao Nagar, NH"
+1120,2,Semi-Furnished,Bachelors/Family,1200 sqft,10000,"SBC Pristine Place, Gajularamaramm"
+1121,2,Semi-Furnished,Bachelors/Family,1200 sqft,10000,Uppal Metro
+1122,1,Semi-Furnished,Bachelors/Family,read more,11000,"Yousufguda, NH"
+1123,2,Semi-Furnished,Bachelors/Family,1314 sqft,30000,"Gachibowli, Outer Ring Road"
+1124,3,Semi-Furnished,Bachelors/Family,1380 sqft,35000,"Jains Carlton Creek, Gachibowli, Outer Ring Road"
+1125,2,Semi-Furnished,Bachelors/Family,1125 sqft,21000,"Ramky One Marvel, Kukatpally, NH"
+1126,3,Furnished,Bachelors,1580 sqft,45000,"Green Terraces, Whitefields, Hitech City"
+1127,1,Unfurnished,Bachelors/Family,read more,13000,Chhota Anjaiah Nagar
+1128,1,Unfurnished,Bachelors,East Facing Property,7500,Bharat Nagar
+1129,1,Unfurnished,Bachelors/Family,read more,13000,Chhota Anjaiah Nagar
+1130,3,Semi-Furnished,Bachelors,1580 sqft,30000,"Rainbow Vistas Rock Gardens, Hitech City City"
+1131,1,Unfurnished,Bachelors/Family,read more,11000,"Kukatpally Housing Board Colony, NH"
+1132,3,Furnished,Bachelors/Family,1800 sqft,35000,"Adi Emerald, Kondapur"
+1133,3,Semi-Furnished,Bachelors/Family,1756 sqft,26000,"Tulip Residency, Kondapur"
+1134,2,Furnished,Bachelors/Family,1000 sqft,11000,Vasavi Nagar-Karkhana
+1135,3,Furnished,Bachelors/Family,1500 sqft,20000,Tarnaka
+1136,2,Furnished,Family,1050 sqft,15000,"Pragathi Nagar, Kukatpally"
+1137,3,Family,2,1700 sqft,24000,"Srinagar Colony, Old Malakpet, NH"
+1138,2,Furnished,Bachelors/Family,880 sqft,15000,"Happy Homes Colony, Hyderabad Expressway"
+1139,2,Bachelors/Family,2,1325 sqft,18000,Suchitra Circle
+1140,3,Semi-Furnished,Bachelors/Family,2500 sqft,25000,"Srinagar Colony, Old Malakpet, NH"
+1141,3,Semi-Furnished,Bachelors/Family,1250 sqft,23000,"Ashok Nagar, Himayath Nagar"
+1142,3,Furnished,Family,1800 sqft,32000,"Aditya DSR LakeSide, Madhava Reddy Colony, Gachibowli"
+1143,1,Unfurnished,Bachelors/Family,read more,8000,"Beeramguda, Ramachandra Puram, NH"
+1144,1,Furnished,Bachelors/Family,read more,8000,"Telecom Nagar, Gachibowli"
+1145,1,Unfurnished,Bachelors,East Facing Property,6000,ALEAP
+1146,1,Semi-Furnished,Bachelors/Family,read more,11000,Kondapur
+1147,2,Semi-Furnished,Bachelors/Family,1200 sqft,14000,Attapur
+1148,1,Unfurnished,Bachelors/Family,read more,14000,Kondapur
+1149,1,Semi-Furnished,Bachelors/Family,read more,5000,"Uppal, NH"
+1150,2,Semi-Furnished,Bachelors,900 sqft,16000,New Allapur
+1151,2,Bachelors/Family,2,1200 sqft,15000,"Punjagutta, NH"
+1152,2,Semi-Furnished,Bachelors/Family,850 sqft,26000,"Mantri Celestia, Gachibowli, Outer Ring Road"
+1153,2,Bachelors/Family,2,1100 sqft,14000,"Chandanagar, NH"
+1154,2,Furnished,Bachelors/Family,1000 sqft,12000,Jubilee Hills
+1155,3,Semi-Furnished,Bachelors,1450 sqft,35000,"Aditya Sunshine, Hitech City City"
+1156,3,Semi-Furnished,Family,1600 sqft,21000,"Lakshmi Royal Castle, Nallagandla, Serilingampally"
+1157,2,Semi-Furnished,Bachelors/Family,1025 sqft,27000,"Mantri Celestia, Gachibowli, Outer Ring Road"
+1158,2,Furnished,Bachelors/Family,880 sqft,15000,"Happy Homes Colony, Hyderabad Expressway"
+1159,2,Semi-Furnished,Bachelors/Family,1400 sqft,12000,"Sun City, Bandlaguda, Chevella Road"
+1160,2,Unfurnished,Bachelors/Family,1000 sqft,10000,"Swathi Pooja Homes, Dilsukhnagar, NH"
+1161,3,Unfurnished,Bachelors,1250 sqft,22000,"Janapriya Metropolis, Moti Nagar"
+1162,3,Semi-Furnished,Bachelors/Family,1868 sqft,30000,"Indu Fortune Fields apartments, Hitech City City"
+1163,2,Semi-Furnished,Bachelors,1200 sqft,20000,"Lingampally-Serilingampally, NH"
+1164,3,Semi-Furnished,Family,1480 sqft,34000,"Vertex Panache, Gachibowli, Outer Ring Road"
+1165,1,Unfurnished,Bachelors/Family,East Facing Property,10500,"Lingampally-Serilingampally, NH"
+1166,2,Unfurnished,Family,900 sqft,15000,KPHB Road
+1167,1,Semi-Furnished,Bachelors/Family,East Facing Property,10000,"Miyapur, NH"
+1168,3,Unfurnished,Bachelors,1515 sqft,14000,"Pragathi Nagar, Kukatpally"
+1169,3,Family,3,1500 sqft,16000,"Habsiguda, NH"
+1170,2,Semi-Furnished,Bachelors/Family,1100 sqft,12000,"Umas Aadya and Arha Mensions, Kukatpally, NH"
