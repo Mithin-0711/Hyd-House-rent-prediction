@@ -5,7 +5,7 @@ import pickle  #used to load saved ml files
 
 app=Flask(__name__)
 
-df=pd.read_csv("Hyd_cleaned.csv") 
+df=pd.read_csv("hyd_cleaned.csv") 
 
 #loading model and encoder
 model=pickle.load(open("model.pkl","rb"))
